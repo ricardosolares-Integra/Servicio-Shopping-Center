@@ -1,0 +1,3 @@
+2025-05-04 23:04:26.4024|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'D:\Users\ricardo.solares\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2025-05-04 23:04:28.5138|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:50246/  0 
+2025-05-04 23:04:28.6481|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 130.6942ms 200  

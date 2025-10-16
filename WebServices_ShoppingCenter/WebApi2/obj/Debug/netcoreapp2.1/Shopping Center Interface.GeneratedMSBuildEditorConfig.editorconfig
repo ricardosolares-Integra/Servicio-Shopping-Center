@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = Igt.WebServices.Base
+build_property.ProjectDir = C:\Users\Consultor\Desktop\Shopping Center\Base WS\Igt.WebServices.Base\WebApi2\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

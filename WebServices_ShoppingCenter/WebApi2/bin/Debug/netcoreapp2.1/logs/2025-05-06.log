@@ -1,0 +1,66 @@
+2025-05-06 08:34:57.0026|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'D:\Users\ricardo.solares\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2025-05-06 08:34:58.8743|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:50246/  0 
+2025-05-06 08:34:59.0716|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 174.9187ms 200  
+2025-05-06 08:35:12.7359|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:50246/IGT/Servicio/ServiceTimer   
+2025-05-06 08:35:14.0363|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "ServiceTimer", controller = "Servicio"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] serviceTimer() on controller ShoppingCenter.WebServices.Base.Controllers.ServicioController (WebServicesShoppingCenter). 
+2025-05-06 08:35:14.0773|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) - Validation state: Valid 
+2025-05-06 08:36:06.4640|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-06 08:36:06.4640|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-06 08:36:06.8970|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Items 
+Resultado Transaccion: Exitoso  
+Request: {
+  "ItemCode": "A17",
+  "ItemName": "Router",
+  "ItemsGroupCode": 106,
+  "BarCode": "017",
+  "PurchaseItem": "tYES",
+  "SalesItem": "tYES",
+  "U_EsInterfaz": "S",
+  "U_IdExterno": "A17",
+  "U_Bodega": "B01"
+} 
+Tipo objeto: 4
+Request: {
+  "ItemCode": "A17",
+  "ItemName": "Router",
+  "ItemsGroupCode": 106,
+  "BarCode": "017",
+  "PurchaseItem": "tYES",
+  "SalesItem": "tYES",
+  "U_EsInterfaz": "S",
+  "U_IdExterno": "A17",
+  "U_Bodega": "B01"
+} 
+ 
+2025-05-06 08:36:06.8970|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Items 
+Resultado Transaccion: Exitoso  
+Request: {
+  "ItemCode": "A17",
+  "ItemName": "Router",
+  "ItemsGroupCode": 106,
+  "BarCode": "017",
+  "PurchaseItem": "tYES",
+  "SalesItem": "tYES",
+  "U_EsInterfaz": "S",
+  "U_IdExterno": "A17",
+  "U_Bodega": "B01"
+} 
+Tipo objeto: 4
+Request: {
+  "ItemCode": "A17",
+  "ItemName": "Router",
+  "ItemsGroupCode": 106,
+  "BarCode": "017",
+  "PurchaseItem": "tYES",
+  "SalesItem": "tYES",
+  "U_EsInterfaz": "S",
+  "U_IdExterno": "A17",
+  "U_Bodega": "B01"
+} 
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-06 08:36:06.8970|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-06 08:36:06.8970|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-06 08:36:35.0623|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 80965ms. 
+2025-05-06 08:36:35.1065|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.String'. 
+2025-05-06 08:36:35.1430|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) in 81097.5118ms 
+2025-05-06 08:36:35.1634|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 82431.0346ms 200 text/plain; charset=utf-8 

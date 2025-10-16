@@ -1,0 +1,23 @@
+﻿Select *FROM T_TIPO_OBJETO;
+--Este fichero solo es un log, de los datos insertados en la bd de pruevas
+insert into "BD_INTERMEDIA_PRUEBAS_LAILAI"."T_TIPO_OBJETO" values(4,'Articulos','Articulos varios','CodigoArticulo,Descripcion,IdGrupo,Estado','T_ARTICULO',1,'0')
+insert into "BD_INTERMEDIA_PRUEBAS_LAILAI"."T_TIPO_OBJETO" values(2,'Proveedor','Business Partner','CodigoProveedor,RazonSocial,NombreComercial,IdGrupo,Nit,Telefono,Direccion,Estado','T_TIPO_OBJETO',2,'0')
+insert into "BD_INTERMEDIA_PRUEBAS_LAILAI"."T_TIPO_OBJETO" values(13,'Factura Deudores','A/R Invoice','Bodega,CantidadFacturas,SapDocEntry','T_FACTURACLI',3,'0')
+--falta el 4
+insert into "BD_INTERMEDIA_PRUEBAS_LAILAI"."T_TIPO_OBJETO" values(14,'Nota Credito','A/R Credit Memo','Bodega,CantidadNotasCredito,FechaDocumento,SapDocEntry','T_NOTACREDITO',5,'0')
+insert into "BD_INTERMEDIA_PRUEBAS_LAILAI"."T_TIPO_OBJETO" values(24,'Pagos Recibidos','Incoming Payment','IdFactura,FechaDocumento,Moneda,Monto,TipoPago,SapDocEntry','T_FACTURACLI_PAGO',6,'0')
+--
+insert into "BD_INTERMEDIA_PRUEBAS_LAILAI"."T_PARAMETROS" values(4,'SNClient','C20000','Indica el codigo del socios de negocios cliente');
+
+insert into "BD_INTERMEDIA_PRUEBAS_LAILAI"."T_PARAMETROS" values(5,'SNVendedor','
+
+
+--
+
+INSERT INTO BD_INTERMEDIA_PRUEBAS_LAILAI.T_TIPO_OBJETO
+("IdTipoObjetoSap", "Nombre", "Descripcion", "NombreCampo", "NombreTabla", "Orden", "EnvioManual")
+VALUES(1250000001, 'Solicitud Traslado Materia', 'Inventory Transfer Request', 'IdTraslado,BodegaEmisora,BodegaReceptora,FechaDocumento,SapDocEntry', 'T_TRASLADO_MATERIA', 7, '0');
+
+INSERT INTO BD_INTERMEDIA_PRUEBAS_LAILAI.T_TIPO_OBJETO
+("IdTipoObjetoSap", "Nombre", "Descripcion", "NombreCampo", "NombreTabla", "Orden", "EnvioManual")
+VALUES(60, 'Salida Mercanica', 'Consumo Materia', 'FechaDocumento,Bodega,SapDocEntry', 'T_CONSUMO_MATERIA', 8, '0');

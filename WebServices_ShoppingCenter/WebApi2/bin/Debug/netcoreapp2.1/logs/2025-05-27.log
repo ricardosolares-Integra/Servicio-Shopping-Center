@@ -1,0 +1,863 @@
+2025-05-27 08:27:52.6372|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'D:\Users\ricardo.solares\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2025-05-27 08:27:53.8953|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:50246/  0 
+2025-05-27 08:27:54.0508|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 136.1937ms 200  
+2025-05-27 08:28:00.5275|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:50246/IGT/Servicio/ServiceTimer   
+2025-05-27 08:28:01.2481|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "ServiceTimer", controller = "Servicio"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult serviceTimer() on controller ShoppingCenter.WebServices.Base.Controllers.ServicioController (WebServicesShoppingCenter). 
+2025-05-27 08:28:01.2639|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) - Validation state: Valid 
+2025-05-27 08:29:06.2773|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-27 08:29:06.2773|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-27 08:29:06.4840|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: {
+  "CardCode": "C00001",
+  "TaxDate": "2025-05-26T15:23:14",
+  "U_giro": "Comercio al por menor",
+  "U_FE_TipoDoc": "01",
+  "U_FE_CodGeneracion": "CG123",
+  "U_FE_SelloRecepcion": "SE123456789",
+  "U_FE_NoControl": "NC001",
+  "U_FE_NIT": "1234567-8",
+  "U_FE_NRC": "987654-3",
+  "U_FE_Nombre": "Hanna González",
+  "U_IdExterno": "F042",
+  "U_Bodega": "BOD01",
+  "U_NumeroControl_Del": "01",
+  "U_NumeroControl_Al": "02",
+  "U_Correlativo_Del": "03",
+  "U_Correlativo_Al": "04",
+  "U_Serie_Del": "05",
+  "U_Serie_Al": "06",
+  "U_Direccion_Complemento": "Colonia Centro #123",
+  "U_Direccion_Departamento": "01",
+  "U_Direccion_Municipio": "01",
+  "U_CodigoActividadEconomica": "620000",
+  "U_Correo": "hanna@correo.com",
+  "U_PuntoVenta": "01",
+  "U_Establecimiento": "01",
+  "U_EsInterfaz": "S",
+  "U_TipoDocIdentificacion": "13",
+  "DocumentLines": [
+    {
+      "ItemCode": "A10",
+      "Quantity": 200.0,
+      "PriceAfterVAT": 180.0,
+      "Currency": "USD",
+      "TaxCode": "IVACCF",
+      "UoMCode": "7894561230123",
+      "U_DesCodBarra": "Producto con código de barras",
+      "U_PreciodLista": 100,
+      "LineTaxJurisdictions": [],
+      "GeneratedAssets": [],
+      "EBooksDetails": [],
+      "DocumentLineAdditionalExpenses": [],
+      "WithholdingTaxLines": [],
+      "SerialNumbers": [],
+      "BatchNumbers": [],
+      "DocumentLinesBinAllocations": [],
+      "ExportProcesses": [],
+      "CCDNumbers": [],
+      "ImportProcesses": []
+    }
+  ]
+} 
+Tipo objeto: 13
+Request: {
+  "CardCode": "C00001",
+  "TaxDate": "2025-05-26T15:23:14",
+  "U_giro": "Comercio al por menor",
+  "U_FE_TipoDoc": "01",
+  "U_FE_CodGeneracion": "CG123",
+  "U_FE_SelloRecepcion": "SE123456789",
+  "U_FE_NoControl": "NC001",
+  "U_FE_NIT": "1234567-8",
+  "U_FE_NRC": "987654-3",
+  "U_FE_Nombre": "Hanna González",
+  "U_IdExterno": "F042",
+  "U_Bodega": "BOD01",
+  "U_NumeroControl_Del": "01",
+  "U_NumeroControl_Al": "02",
+  "U_Correlativo_Del": "03",
+  "U_Correlativo_Al": "04",
+  "U_Serie_Del": "05",
+  "U_Serie_Al": "06",
+  "U_Direccion_Complemento": "Colonia Centro #123",
+  "U_Direccion_Departamento": "01",
+  "U_Direccion_Municipio": "01",
+  "U_CodigoActividadEconomica": "620000",
+  "U_Correo": "hanna@correo.com",
+  "U_PuntoVenta": "01",
+  "U_Establecimiento": "01",
+  "U_EsInterfaz": "S",
+  "U_TipoDocIdentificacion": "13",
+  "DocumentLines": [
+    {
+      "ItemCode": "A10",
+      "Quantity": 200.0,
+      "PriceAfterVAT": 180.0,
+      "Currency": "USD",
+      "TaxCode": "IVACCF",
+      "UoMCode": "7894561230123",
+      "U_DesCodBarra": "Producto con código de barras",
+      "U_PreciodLista": 100,
+      "LineTaxJurisdictions": [],
+      "GeneratedAssets": [],
+      "EBooksDetails": [],
+      "DocumentLineAdditionalExpenses": [],
+      "WithholdingTaxLines": [],
+      "SerialNumbers": [],
+      "BatchNumbers": [],
+      "DocumentLinesBinAllocations": [],
+      "ExportProcesses": [],
+      "CCDNumbers": [],
+      "ImportProcesses": []
+    }
+  ]
+} 
+ 
+2025-05-27 08:29:06.4840|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: {
+  "CardCode": "C00001",
+  "TaxDate": "2025-05-26T15:23:14",
+  "U_giro": "Comercio al por menor",
+  "U_FE_TipoDoc": "01",
+  "U_FE_CodGeneracion": "CG123",
+  "U_FE_SelloRecepcion": "SE123456789",
+  "U_FE_NoControl": "NC001",
+  "U_FE_NIT": "1234567-8",
+  "U_FE_NRC": "987654-3",
+  "U_FE_Nombre": "Hanna González",
+  "U_IdExterno": "F042",
+  "U_Bodega": "BOD01",
+  "U_NumeroControl_Del": "01",
+  "U_NumeroControl_Al": "02",
+  "U_Correlativo_Del": "03",
+  "U_Correlativo_Al": "04",
+  "U_Serie_Del": "05",
+  "U_Serie_Al": "06",
+  "U_Direccion_Complemento": "Colonia Centro #123",
+  "U_Direccion_Departamento": "01",
+  "U_Direccion_Municipio": "01",
+  "U_CodigoActividadEconomica": "620000",
+  "U_Correo": "hanna@correo.com",
+  "U_PuntoVenta": "01",
+  "U_Establecimiento": "01",
+  "U_EsInterfaz": "S",
+  "U_TipoDocIdentificacion": "13",
+  "DocumentLines": [
+    {
+      "ItemCode": "A10",
+      "Quantity": 200.0,
+      "PriceAfterVAT": 180.0,
+      "Currency": "USD",
+      "TaxCode": "IVACCF",
+      "UoMCode": "7894561230123",
+      "U_DesCodBarra": "Producto con código de barras",
+      "U_PreciodLista": 100,
+      "LineTaxJurisdictions": [],
+      "GeneratedAssets": [],
+      "EBooksDetails": [],
+      "DocumentLineAdditionalExpenses": [],
+      "WithholdingTaxLines": [],
+      "SerialNumbers": [],
+      "BatchNumbers": [],
+      "DocumentLinesBinAllocations": [],
+      "ExportProcesses": [],
+      "CCDNumbers": [],
+      "ImportProcesses": []
+    }
+  ]
+} 
+Tipo objeto: 13
+Request: {
+  "CardCode": "C00001",
+  "TaxDate": "2025-05-26T15:23:14",
+  "U_giro": "Comercio al por menor",
+  "U_FE_TipoDoc": "01",
+  "U_FE_CodGeneracion": "CG123",
+  "U_FE_SelloRecepcion": "SE123456789",
+  "U_FE_NoControl": "NC001",
+  "U_FE_NIT": "1234567-8",
+  "U_FE_NRC": "987654-3",
+  "U_FE_Nombre": "Hanna González",
+  "U_IdExterno": "F042",
+  "U_Bodega": "BOD01",
+  "U_NumeroControl_Del": "01",
+  "U_NumeroControl_Al": "02",
+  "U_Correlativo_Del": "03",
+  "U_Correlativo_Al": "04",
+  "U_Serie_Del": "05",
+  "U_Serie_Al": "06",
+  "U_Direccion_Complemento": "Colonia Centro #123",
+  "U_Direccion_Departamento": "01",
+  "U_Direccion_Municipio": "01",
+  "U_CodigoActividadEconomica": "620000",
+  "U_Correo": "hanna@correo.com",
+  "U_PuntoVenta": "01",
+  "U_Establecimiento": "01",
+  "U_EsInterfaz": "S",
+  "U_TipoDocIdentificacion": "13",
+  "DocumentLines": [
+    {
+      "ItemCode": "A10",
+      "Quantity": 200.0,
+      "PriceAfterVAT": 180.0,
+      "Currency": "USD",
+      "TaxCode": "IVACCF",
+      "UoMCode": "7894561230123",
+      "U_DesCodBarra": "Producto con código de barras",
+      "U_PreciodLista": 100,
+      "LineTaxJurisdictions": [],
+      "GeneratedAssets": [],
+      "EBooksDetails": [],
+      "DocumentLineAdditionalExpenses": [],
+      "WithholdingTaxLines": [],
+      "SerialNumbers": [],
+      "BatchNumbers": [],
+      "DocumentLinesBinAllocations": [],
+      "ExportProcesses": [],
+      "CCDNumbers": [],
+      "ImportProcesses": []
+    }
+  ]
+} 
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-27 08:29:06.4840|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-27 08:29:06.4840|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-27 08:29:10.3019|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-27 08:29:10.3019|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-27 08:29:10.4795|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: {
+   "error" : {
+      "code" : -10,
+      "message" : {
+         "lang" : "en-us",
+         "value" : "Quantity falls into negative inventory  [DocumentLines.ItemCode][line: 1]"
+      }
+   }
+}
+ 
+Tipo objeto: 13
+Request: {
+   "error" : {
+      "code" : -10,
+      "message" : {
+         "lang" : "en-us",
+         "value" : "Quantity falls into negative inventory  [DocumentLines.ItemCode][line: 1]"
+      }
+   }
+}
+ 
+ 
+2025-05-27 08:29:10.4795|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: {
+   "error" : {
+      "code" : -10,
+      "message" : {
+         "lang" : "en-us",
+         "value" : "Quantity falls into negative inventory  [DocumentLines.ItemCode][line: 1]"
+      }
+   }
+}
+ 
+Tipo objeto: 13
+Request: {
+   "error" : {
+      "code" : -10,
+      "message" : {
+         "lang" : "en-us",
+         "value" : "Quantity falls into negative inventory  [DocumentLines.ItemCode][line: 1]"
+      }
+   }
+}
+ 
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-27 08:29:10.4795|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-27 08:29:10.4795|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-27 08:29:17.5226|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-27 08:29:17.5226|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-27 08:29:20.2585|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-27 08:29:20.2585|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-27 08:29:28.0423|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) in 86793.334ms 
+2025-05-27 08:29:28.0423|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. Newtonsoft.Json.JsonReaderException: Bad JSON escape sequence: \U. Path 'error.message.value', line 1, position 76.
+   at Newtonsoft.Json.JsonTextReader.ReadStringIntoBuffer(Char quote)
+   at Newtonsoft.Json.JsonTextReader.ParseValue()
+   at Newtonsoft.Json.JsonTextReader.Read()
+   at Newtonsoft.Json.Linq.JContainer.ReadContentFrom(JsonReader r, JsonLoadSettings settings)
+   at Newtonsoft.Json.Linq.JContainer.ReadTokenFrom(JsonReader reader, JsonLoadSettings options)
+   at Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   at Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   at Newtonsoft.Json.Linq.JObject.Parse(String json)
+   at ShoppingCenter.WebServices.Base.Utilidades.UBitacora.getMensajeError(BitacoraModel bitacora) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Utilidades\UBitacora.cs:line 68
+   at ShoppingCenter.WebServices.Base.Utilidades.UBitacora.getMensaje(Int32 idError, BitacoraModel bitacora) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Utilidades\UBitacora.cs:line 51
+   at ShoppingCenter.WebServices.Base.Utilidades.UBitacora.recordBitacora(BitacoraModel bitacora, Boolean flag) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Utilidades\UBitacora.cs:line 31
+   at ShoppingCenter.WebServices.Base.Utilidades.ULogger.log(Int32 idTipoObjetoSap, String BdSap, String metodoHttp, String url, String request, String response, Boolean error, TipoTransaccion tipoTransaccion, String idObjetoSap, String idObjetoIntermedia, Boolean flag) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Utilidades\ULogger.cs:line 43
+   at ShoppingCenter.WebServices.Base.Utilidades.ErrorGlobal..ctor(String message, String metodo, String data, String URL, Int32 idTipoObjetoSap, Int32 idObjetoSap, String idObjetoIntermedia, Boolean flag) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Utilidades\ErrorGlobal.cs:line 34
+   at ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Controllers\ServicioController.cs:line 42
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2025-05-27 08:29:28.0423|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. Newtonsoft.Json.JsonReaderException: Bad JSON escape sequence: \U. Path 'error.message.value', line 1, position 76.
+   at Newtonsoft.Json.JsonTextReader.ReadStringIntoBuffer(Char quote)
+   at Newtonsoft.Json.JsonTextReader.ParseValue()
+   at Newtonsoft.Json.JsonTextReader.Read()
+   at Newtonsoft.Json.Linq.JContainer.ReadContentFrom(JsonReader r, JsonLoadSettings settings)
+   at Newtonsoft.Json.Linq.JContainer.ReadTokenFrom(JsonReader reader, JsonLoadSettings options)
+   at Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   at Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   at Newtonsoft.Json.Linq.JObject.Parse(String json)
+   at ShoppingCenter.WebServices.Base.Utilidades.UBitacora.getMensajeError(BitacoraModel bitacora) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Utilidades\UBitacora.cs:line 68
+   at ShoppingCenter.WebServices.Base.Utilidades.UBitacora.getMensaje(Int32 idError, BitacoraModel bitacora) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Utilidades\UBitacora.cs:line 51
+   at ShoppingCenter.WebServices.Base.Utilidades.UBitacora.recordBitacora(BitacoraModel bitacora, Boolean flag) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Utilidades\UBitacora.cs:line 31
+   at ShoppingCenter.WebServices.Base.Utilidades.ULogger.log(Int32 idTipoObjetoSap, String BdSap, String metodoHttp, String url, String request, String response, Boolean error, TipoTransaccion tipoTransaccion, String idObjetoSap, String idObjetoIntermedia, Boolean flag) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Utilidades\ULogger.cs:line 43
+   at ShoppingCenter.WebServices.Base.Utilidades.ErrorGlobal..ctor(String message, String metodo, String data, String URL, Int32 idTipoObjetoSap, Int32 idObjetoSap, String idObjetoIntermedia, Boolean flag) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Utilidades\ErrorGlobal.cs:line 34
+   at ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Controllers\ServicioController.cs:line 42
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)|url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-27 08:29:28.1027|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 87579.2524ms 500 text/html; charset=utf-8 
+2025-05-27 08:29:49.2192|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:50246/IGT/Servicio/ServiceTimer   
+2025-05-27 08:29:49.2381|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "ServiceTimer", controller = "Servicio"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult serviceTimer() on controller ShoppingCenter.WebServices.Base.Controllers.ServicioController (WebServicesShoppingCenter). 
+2025-05-27 08:29:49.2381|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) - Validation state: Valid 
+2025-05-27 08:30:06.0694|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 16816.6112ms. 
+2025-05-27 08:30:06.1051|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.String'. 
+2025-05-27 08:30:06.1122|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) in 16872.8071ms 
+2025-05-27 08:30:06.1122|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 16895.9431ms 200 text/plain; charset=utf-8 
+2025-05-27 08:30:37.9389|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'D:\Users\ricardo.solares\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2025-05-27 08:30:39.2035|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:50246/  0 
+2025-05-27 08:30:39.3374|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 128.1816ms 200  
+2025-05-27 08:30:52.6025|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:50246/IGT/Servicio/ServiceTimer   
+2025-05-27 08:30:53.5104|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "ServiceTimer", controller = "Servicio"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult serviceTimer() on controller ShoppingCenter.WebServices.Base.Controllers.ServicioController (WebServicesShoppingCenter). 
+2025-05-27 08:30:53.5486|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) - Validation state: Valid 
+2025-05-27 08:31:13.4131|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 19849.8085ms. 
+2025-05-27 08:31:13.4463|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.String'. 
+2025-05-27 08:31:13.4662|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) in 19947.4851ms 
+2025-05-27 08:31:13.4810|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 20879.3398ms 200 text/plain; charset=utf-8 
+2025-05-27 08:32:12.2281|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'D:\Users\ricardo.solares\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2025-05-27 08:32:13.0849|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:50246/  0 
+2025-05-27 08:32:13.1601|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 72.7594ms 200  
+2025-05-27 08:32:24.0520|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:50246/IGT/Servicio/ServiceTimer   
+2025-05-27 08:32:24.4950|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "ServiceTimer", controller = "Servicio"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult serviceTimer() on controller ShoppingCenter.WebServices.Base.Controllers.ServicioController (WebServicesShoppingCenter). 
+2025-05-27 08:32:24.4950|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) - Validation state: Valid 
+2025-05-27 08:34:28.6011|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'D:\Users\ricardo.solares\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2025-05-27 08:34:30.6694|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:50246/  0 
+2025-05-27 08:34:30.7994|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 126.2015ms 200  
+2025-05-27 08:34:31.6437|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:50246/IGT/Servicio/ServiceTimer   
+2025-05-27 08:34:33.0125|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "ServiceTimer", controller = "Servicio"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult serviceTimer() on controller ShoppingCenter.WebServices.Base.Controllers.ServicioController (WebServicesShoppingCenter). 
+2025-05-27 08:34:33.0400|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) - Validation state: Valid 
+2025-05-27 08:38:21.1343|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'D:\Users\ricardo.solares\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2025-05-27 08:38:22.4972|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:50246/  0 
+2025-05-27 08:38:22.7957|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 294.1618ms 200  
+2025-05-27 08:38:32.7699|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:50246/IGT/Servicio/ServiceTimer   
+2025-05-27 08:38:33.7998|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "ServiceTimer", controller = "Servicio"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult serviceTimer() on controller ShoppingCenter.WebServices.Base.Controllers.ServicioController (WebServicesShoppingCenter). 
+2025-05-27 08:38:33.8532|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) - Validation state: Valid 
+2025-05-27 08:39:14.2155|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-27 08:39:14.2155|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-27 08:39:14.7763|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /ServiceTimer 
+Resultado Transaccion: Fallido  
+Request: System.Exception: No hay documentos para enviar. Se ha alcanzado el número máximo de intentos permitidos.
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.enviarDocumentosNoEnviadosSAPSync() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 43
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.Enviar(Int32 idObjetoSAP) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 157
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.EnviarTodos() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 142
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.timmer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 62 
+Tipo objeto: 13
+Request: System.Exception: No hay documentos para enviar. Se ha alcanzado el número máximo de intentos permitidos.
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.enviarDocumentosNoEnviadosSAPSync() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 43
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.Enviar(Int32 idObjetoSAP) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 157
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.EnviarTodos() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 142
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.timmer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 62 
+ 
+2025-05-27 08:39:14.7763|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /ServiceTimer 
+Resultado Transaccion: Fallido  
+Request: System.Exception: No hay documentos para enviar. Se ha alcanzado el número máximo de intentos permitidos.
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.enviarDocumentosNoEnviadosSAPSync() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 43
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.Enviar(Int32 idObjetoSAP) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 157
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.EnviarTodos() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 142
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.timmer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 62 
+Tipo objeto: 13
+Request: System.Exception: No hay documentos para enviar. Se ha alcanzado el número máximo de intentos permitidos.
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.enviarDocumentosNoEnviadosSAPSync() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 43
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.Enviar(Int32 idObjetoSAP) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 157
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.EnviarTodos() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 142
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.timmer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 62 
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-27 08:39:14.7763|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-27 08:39:14.7763|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-27 08:39:15.1083|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-27 08:39:15.1083|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-27 08:39:15.7486|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: ()  
+Resultado Transaccion: Fallido  
+Request: System.Exception: No hay documentos para enviar. Se ha alcanzado el número máximo de intentos permitidos.
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.timmer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 82
+   at ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Controllers\ServicioController.cs:line 29 
+Tipo objeto: 4
+Request: System.Exception: No hay documentos para enviar. Se ha alcanzado el número máximo de intentos permitidos.
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.timmer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 82
+   at ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Controllers\ServicioController.cs:line 29 
+ 
+2025-05-27 08:39:15.7486|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: ()  
+Resultado Transaccion: Fallido  
+Request: System.Exception: No hay documentos para enviar. Se ha alcanzado el número máximo de intentos permitidos.
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.timmer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 82
+   at ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Controllers\ServicioController.cs:line 29 
+Tipo objeto: 4
+Request: System.Exception: No hay documentos para enviar. Se ha alcanzado el número máximo de intentos permitidos.
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.timmer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 82
+   at ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Controllers\ServicioController.cs:line 29 
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-27 08:39:15.7486|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-27 08:39:15.7486|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-27 08:39:15.7690|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter), returned result Microsoft.AspNetCore.Mvc.BadRequestObjectResult in 41903.0839ms. 
+2025-05-27 08:39:15.8058|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.String'. 
+2025-05-27 08:39:15.8313|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) in 42021.0074ms 
+2025-05-27 08:39:15.8468|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 43078.8896ms 400 text/plain; charset=utf-8 
+2025-05-27 08:43:49.4022|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:50246/IGT/Servicio/ServiceTimer   
+2025-05-27 08:43:49.4022|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "ServiceTimer", controller = "Servicio"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult serviceTimer() on controller ShoppingCenter.WebServices.Base.Controllers.ServicioController (WebServicesShoppingCenter). 
+2025-05-27 08:43:49.4326|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) - Validation state: Valid 
+2025-05-27 08:44:08.0542|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-27 08:44:08.0542|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-27 08:44:08.3610|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /ServiceTimer 
+Resultado Transaccion: Fallido  
+Request: System.Exception: No hay documentos para enviar. Se ha alcanzado el número máximo de intentos permitidos.
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.enviarDocumentosNoEnviadosSAPSync() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 43
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.Enviar(Int32 idObjetoSAP) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 157
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.EnviarTodos() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 142
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.timmer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 62 
+Tipo objeto: 13
+Request: System.Exception: No hay documentos para enviar. Se ha alcanzado el número máximo de intentos permitidos.
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.enviarDocumentosNoEnviadosSAPSync() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 43
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.Enviar(Int32 idObjetoSAP) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 157
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.EnviarTodos() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 142
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.timmer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 62 
+ 
+2025-05-27 08:44:08.3610|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /ServiceTimer 
+Resultado Transaccion: Fallido  
+Request: System.Exception: No hay documentos para enviar. Se ha alcanzado el número máximo de intentos permitidos.
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.enviarDocumentosNoEnviadosSAPSync() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 43
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.Enviar(Int32 idObjetoSAP) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 157
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.EnviarTodos() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 142
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.timmer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 62 
+Tipo objeto: 13
+Request: System.Exception: No hay documentos para enviar. Se ha alcanzado el número máximo de intentos permitidos.
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.enviarDocumentosNoEnviadosSAPSync() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 43
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.Enviar(Int32 idObjetoSAP) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 157
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.EnviarTodos() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 142
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.timmer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 62 
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-27 08:44:08.3610|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-27 08:44:08.3610|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-27 08:44:08.5644|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-27 08:44:08.5644|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-27 08:44:09.1179|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: ()  
+Resultado Transaccion: Fallido  
+Request: System.Exception: No hay documentos para enviar. Se ha alcanzado el número máximo de intentos permitidos.
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.timmer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 82
+   at ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Controllers\ServicioController.cs:line 29 
+Tipo objeto: 4
+Request: System.Exception: No hay documentos para enviar. Se ha alcanzado el número máximo de intentos permitidos.
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.timmer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 82
+   at ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Controllers\ServicioController.cs:line 29 
+ 
+2025-05-27 08:44:09.1179|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: ()  
+Resultado Transaccion: Fallido  
+Request: System.Exception: No hay documentos para enviar. Se ha alcanzado el número máximo de intentos permitidos.
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.timmer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 82
+   at ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Controllers\ServicioController.cs:line 29 
+Tipo objeto: 4
+Request: System.Exception: No hay documentos para enviar. Se ha alcanzado el número máximo de intentos permitidos.
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.timmer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 82
+   at ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Controllers\ServicioController.cs:line 29 
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-27 08:44:09.1215|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-27 08:44:09.1215|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-27 08:44:09.1215|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter), returned result Microsoft.AspNetCore.Mvc.BadRequestObjectResult in 19689.7194ms. 
+2025-05-27 08:44:09.1215|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.String'. 
+2025-05-27 08:44:09.1215|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) in 19711.0692ms 
+2025-05-27 08:44:09.1215|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 19728.8786ms 400 text/plain; charset=utf-8 
+2025-05-27 08:45:08.7967|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:50246/IGT/Servicio/ServiceTimer   
+2025-05-27 08:45:08.7967|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "ServiceTimer", controller = "Servicio"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult serviceTimer() on controller ShoppingCenter.WebServices.Base.Controllers.ServicioController (WebServicesShoppingCenter). 
+2025-05-27 08:45:08.8187|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) - Validation state: Valid 
+2025-05-27 08:45:36.7555|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-27 08:45:36.7555|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-27 08:45:37.1747|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Exitoso  
+Request: {
+  "CardCode": "C00001",
+  "TaxDate": "2025-05-26T15:23:14",
+  "U_giro": "Comercio al por menor",
+  "U_FE_TipoDoc": "01",
+  "U_FE_CodGeneracion": "CG123",
+  "U_FE_SelloRecepcion": "SE123456789",
+  "U_FE_NoControl": "NC001",
+  "U_FE_NIT": "1234567-8",
+  "U_FE_NRC": "987654-3",
+  "U_FE_Nombre": "Hanna González",
+  "U_IdExterno": "F042",
+  "U_Bodega": "BOD01",
+  "U_NumeroControl_Del": "01",
+  "U_NumeroControl_Al": "02",
+  "U_Correlativo_Del": "03",
+  "U_Correlativo_Al": "04",
+  "U_Serie_Del": "05",
+  "U_Serie_Al": "06",
+  "U_Direccion_Complemento": "Colonia Centro #123",
+  "U_Direccion_Departamento": "01",
+  "U_Direccion_Municipio": "01",
+  "U_CodigoActividadEconomica": "620000",
+  "U_Correo": "hanna@correo.com",
+  "U_PuntoVenta": "01",
+  "U_Establecimiento": "01",
+  "U_EsInterfaz": "S",
+  "U_TipoDocIdentificacion": "13",
+  "DocumentLines": [
+    {
+      "ItemCode": "A10",
+      "Quantity": 200.0,
+      "PriceAfterVAT": 180.0,
+      "Currency": "USD",
+      "TaxCode": "IVACCF",
+      "UoMCode": "7894561230123",
+      "U_DesCodBarra": "Producto con código de barras",
+      "U_PreciodLista": 100,
+      "LineTaxJurisdictions": [],
+      "GeneratedAssets": [],
+      "EBooksDetails": [],
+      "DocumentLineAdditionalExpenses": [],
+      "WithholdingTaxLines": [],
+      "SerialNumbers": [],
+      "BatchNumbers": [],
+      "DocumentLinesBinAllocations": [],
+      "ExportProcesses": [],
+      "CCDNumbers": [],
+      "ImportProcesses": []
+    }
+  ]
+} 
+Tipo objeto: 13
+Request: {
+  "CardCode": "C00001",
+  "TaxDate": "2025-05-26T15:23:14",
+  "U_giro": "Comercio al por menor",
+  "U_FE_TipoDoc": "01",
+  "U_FE_CodGeneracion": "CG123",
+  "U_FE_SelloRecepcion": "SE123456789",
+  "U_FE_NoControl": "NC001",
+  "U_FE_NIT": "1234567-8",
+  "U_FE_NRC": "987654-3",
+  "U_FE_Nombre": "Hanna González",
+  "U_IdExterno": "F042",
+  "U_Bodega": "BOD01",
+  "U_NumeroControl_Del": "01",
+  "U_NumeroControl_Al": "02",
+  "U_Correlativo_Del": "03",
+  "U_Correlativo_Al": "04",
+  "U_Serie_Del": "05",
+  "U_Serie_Al": "06",
+  "U_Direccion_Complemento": "Colonia Centro #123",
+  "U_Direccion_Departamento": "01",
+  "U_Direccion_Municipio": "01",
+  "U_CodigoActividadEconomica": "620000",
+  "U_Correo": "hanna@correo.com",
+  "U_PuntoVenta": "01",
+  "U_Establecimiento": "01",
+  "U_EsInterfaz": "S",
+  "U_TipoDocIdentificacion": "13",
+  "DocumentLines": [
+    {
+      "ItemCode": "A10",
+      "Quantity": 200.0,
+      "PriceAfterVAT": 180.0,
+      "Currency": "USD",
+      "TaxCode": "IVACCF",
+      "UoMCode": "7894561230123",
+      "U_DesCodBarra": "Producto con código de barras",
+      "U_PreciodLista": 100,
+      "LineTaxJurisdictions": [],
+      "GeneratedAssets": [],
+      "EBooksDetails": [],
+      "DocumentLineAdditionalExpenses": [],
+      "WithholdingTaxLines": [],
+      "SerialNumbers": [],
+      "BatchNumbers": [],
+      "DocumentLinesBinAllocations": [],
+      "ExportProcesses": [],
+      "CCDNumbers": [],
+      "ImportProcesses": []
+    }
+  ]
+} 
+ 
+2025-05-27 08:45:37.1747|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Exitoso  
+Request: {
+  "CardCode": "C00001",
+  "TaxDate": "2025-05-26T15:23:14",
+  "U_giro": "Comercio al por menor",
+  "U_FE_TipoDoc": "01",
+  "U_FE_CodGeneracion": "CG123",
+  "U_FE_SelloRecepcion": "SE123456789",
+  "U_FE_NoControl": "NC001",
+  "U_FE_NIT": "1234567-8",
+  "U_FE_NRC": "987654-3",
+  "U_FE_Nombre": "Hanna González",
+  "U_IdExterno": "F042",
+  "U_Bodega": "BOD01",
+  "U_NumeroControl_Del": "01",
+  "U_NumeroControl_Al": "02",
+  "U_Correlativo_Del": "03",
+  "U_Correlativo_Al": "04",
+  "U_Serie_Del": "05",
+  "U_Serie_Al": "06",
+  "U_Direccion_Complemento": "Colonia Centro #123",
+  "U_Direccion_Departamento": "01",
+  "U_Direccion_Municipio": "01",
+  "U_CodigoActividadEconomica": "620000",
+  "U_Correo": "hanna@correo.com",
+  "U_PuntoVenta": "01",
+  "U_Establecimiento": "01",
+  "U_EsInterfaz": "S",
+  "U_TipoDocIdentificacion": "13",
+  "DocumentLines": [
+    {
+      "ItemCode": "A10",
+      "Quantity": 200.0,
+      "PriceAfterVAT": 180.0,
+      "Currency": "USD",
+      "TaxCode": "IVACCF",
+      "UoMCode": "7894561230123",
+      "U_DesCodBarra": "Producto con código de barras",
+      "U_PreciodLista": 100,
+      "LineTaxJurisdictions": [],
+      "GeneratedAssets": [],
+      "EBooksDetails": [],
+      "DocumentLineAdditionalExpenses": [],
+      "WithholdingTaxLines": [],
+      "SerialNumbers": [],
+      "BatchNumbers": [],
+      "DocumentLinesBinAllocations": [],
+      "ExportProcesses": [],
+      "CCDNumbers": [],
+      "ImportProcesses": []
+    }
+  ]
+} 
+Tipo objeto: 13
+Request: {
+  "CardCode": "C00001",
+  "TaxDate": "2025-05-26T15:23:14",
+  "U_giro": "Comercio al por menor",
+  "U_FE_TipoDoc": "01",
+  "U_FE_CodGeneracion": "CG123",
+  "U_FE_SelloRecepcion": "SE123456789",
+  "U_FE_NoControl": "NC001",
+  "U_FE_NIT": "1234567-8",
+  "U_FE_NRC": "987654-3",
+  "U_FE_Nombre": "Hanna González",
+  "U_IdExterno": "F042",
+  "U_Bodega": "BOD01",
+  "U_NumeroControl_Del": "01",
+  "U_NumeroControl_Al": "02",
+  "U_Correlativo_Del": "03",
+  "U_Correlativo_Al": "04",
+  "U_Serie_Del": "05",
+  "U_Serie_Al": "06",
+  "U_Direccion_Complemento": "Colonia Centro #123",
+  "U_Direccion_Departamento": "01",
+  "U_Direccion_Municipio": "01",
+  "U_CodigoActividadEconomica": "620000",
+  "U_Correo": "hanna@correo.com",
+  "U_PuntoVenta": "01",
+  "U_Establecimiento": "01",
+  "U_EsInterfaz": "S",
+  "U_TipoDocIdentificacion": "13",
+  "DocumentLines": [
+    {
+      "ItemCode": "A10",
+      "Quantity": 200.0,
+      "PriceAfterVAT": 180.0,
+      "Currency": "USD",
+      "TaxCode": "IVACCF",
+      "UoMCode": "7894561230123",
+      "U_DesCodBarra": "Producto con código de barras",
+      "U_PreciodLista": 100,
+      "LineTaxJurisdictions": [],
+      "GeneratedAssets": [],
+      "EBooksDetails": [],
+      "DocumentLineAdditionalExpenses": [],
+      "WithholdingTaxLines": [],
+      "SerialNumbers": [],
+      "BatchNumbers": [],
+      "DocumentLinesBinAllocations": [],
+      "ExportProcesses": [],
+      "CCDNumbers": [],
+      "ImportProcesses": []
+    }
+  ]
+} 
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-27 08:45:37.1788|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-27 08:45:37.1788|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-27 08:45:45.4336|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 36605.7123ms. 
+2025-05-27 08:45:45.4336|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.String'. 
+2025-05-27 08:45:45.4336|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) in 36621.2683ms 
+2025-05-27 08:45:45.4336|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 36642.2219ms 200 text/plain; charset=utf-8 
+2025-05-27 09:01:51.1794|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'D:\Users\ricardo.solares\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2025-05-27 09:01:53.1839|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:50246/  0 
+2025-05-27 09:01:53.3276|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 140.5903ms 200  
+2025-05-27 09:02:11.1701|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:50246/IGT/Servicio/ServiceTimer   
+2025-05-27 09:02:12.3037|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "ServiceTimer", controller = "Servicio"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult serviceTimer() on controller ShoppingCenter.WebServices.Base.Controllers.ServicioController (WebServicesShoppingCenter). 
+2025-05-27 09:02:12.3633|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) - Validation state: Valid 
+2025-05-27 09:02:42.9707|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-27 09:02:42.9707|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-27 09:02:43.4985|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /ServiceTimer 
+Resultado Transaccion: Fallido  
+Request: System.Exception:  Se ha alcanzado el número máximo de intentos permitidos para el envío de artículos
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.enviarDocumentosNoEnviadosSAPSync() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 43
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.Enviar(Int32 idObjetoSAP) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 152
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.EnviarTodos() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 142
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.timmer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 62 
+Tipo objeto: 13
+Request: System.Exception:  Se ha alcanzado el número máximo de intentos permitidos para el envío de artículos
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.enviarDocumentosNoEnviadosSAPSync() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 43
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.Enviar(Int32 idObjetoSAP) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 152
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.EnviarTodos() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 142
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.timmer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 62 
+ 
+2025-05-27 09:02:43.4985|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /ServiceTimer 
+Resultado Transaccion: Fallido  
+Request: System.Exception:  Se ha alcanzado el número máximo de intentos permitidos para el envío de artículos
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.enviarDocumentosNoEnviadosSAPSync() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 43
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.Enviar(Int32 idObjetoSAP) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 152
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.EnviarTodos() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 142
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.timmer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 62 
+Tipo objeto: 13
+Request: System.Exception:  Se ha alcanzado el número máximo de intentos permitidos para el envío de artículos
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.enviarDocumentosNoEnviadosSAPSync() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 43
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.Enviar(Int32 idObjetoSAP) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 152
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.EnviarTodos() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 142
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.timmer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 62 
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-27 09:02:43.4985|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-27 09:02:43.4985|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-27 09:02:43.8215|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-27 09:02:43.8215|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-27 09:02:44.4349|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: ()  
+Resultado Transaccion: Fallido  
+Request: System.Exception:  Se ha alcanzado el número máximo de intentos permitidos para el envío de artículos
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.timmer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 82
+   at ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Controllers\ServicioController.cs:line 29 
+Tipo objeto: 4
+Request: System.Exception:  Se ha alcanzado el número máximo de intentos permitidos para el envío de artículos
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.timmer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 82
+   at ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Controllers\ServicioController.cs:line 29 
+ 
+2025-05-27 09:02:44.4349|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: ()  
+Resultado Transaccion: Fallido  
+Request: System.Exception:  Se ha alcanzado el número máximo de intentos permitidos para el envío de artículos
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.timmer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 82
+   at ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Controllers\ServicioController.cs:line 29 
+Tipo objeto: 4
+Request: System.Exception:  Se ha alcanzado el número máximo de intentos permitidos para el envío de artículos
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.timmer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 82
+   at ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Controllers\ServicioController.cs:line 29 
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-27 09:02:44.4349|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-27 09:02:44.4349|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-27 09:02:44.4544|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter), returned result Microsoft.AspNetCore.Mvc.BadRequestObjectResult in 32080.9593ms. 
+2025-05-27 09:02:44.4892|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.String'. 
+2025-05-27 09:02:44.5140|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) in 32198.3758ms 
+2025-05-27 09:02:44.5356|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 33368.8725ms 400 text/plain; charset=utf-8 
+2025-05-27 09:05:44.3368|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'D:\Users\ricardo.solares\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2025-05-27 09:05:46.0607|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:50246/  0 
+2025-05-27 09:05:46.1888|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 122.2323ms 200  
+2025-05-27 09:07:01.1724|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:50246/IGT/Servicio/ServiceTimer   
+2025-05-27 09:07:01.6591|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "ServiceTimer", controller = "Servicio"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult serviceTimer() on controller ShoppingCenter.WebServices.Base.Controllers.ServicioController (WebServicesShoppingCenter). 
+2025-05-27 09:07:01.6745|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) - Validation state: Valid 
+2025-05-27 09:07:20.5675|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-27 09:07:20.5675|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-27 09:07:21.0548|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /ServiceTimer 
+Resultado Transaccion: Fallido  
+Request: System.Exception:  Se ha alcanzado el número máximo de intentos permitidos para el envío de facturas
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.enviarDocumentosNoEnviadosSAPSync() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 43
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.Enviar(Int32 idObjetoSAP) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 157
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.EnviarTodos() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 142
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.timmer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 62 
+Tipo objeto: 13
+Request: System.Exception:  Se ha alcanzado el número máximo de intentos permitidos para el envío de facturas
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.enviarDocumentosNoEnviadosSAPSync() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 43
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.Enviar(Int32 idObjetoSAP) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 157
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.EnviarTodos() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 142
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.timmer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 62 
+ 
+2025-05-27 09:07:21.0548|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /ServiceTimer 
+Resultado Transaccion: Fallido  
+Request: System.Exception:  Se ha alcanzado el número máximo de intentos permitidos para el envío de facturas
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.enviarDocumentosNoEnviadosSAPSync() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 43
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.Enviar(Int32 idObjetoSAP) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 157
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.EnviarTodos() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 142
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.timmer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 62 
+Tipo objeto: 13
+Request: System.Exception:  Se ha alcanzado el número máximo de intentos permitidos para el envío de facturas
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.enviarDocumentosNoEnviadosSAPSync() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 43
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.Enviar(Int32 idObjetoSAP) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 157
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.EnviarTodos() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 142
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.timmer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 62 
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-27 09:07:21.0548|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-27 09:07:21.0548|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-27 09:07:21.4203|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-27 09:07:21.4203|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-27 09:07:22.0439|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: ()  
+Resultado Transaccion: Fallido  
+Request: System.Exception:  Se ha alcanzado el número máximo de intentos permitidos para el envío de facturas
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.timmer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 82
+   at ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Controllers\ServicioController.cs:line 29 
+Tipo objeto: 4
+Request: System.Exception:  Se ha alcanzado el número máximo de intentos permitidos para el envío de facturas
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.timmer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 82
+   at ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Controllers\ServicioController.cs:line 29 
+ 
+2025-05-27 09:07:22.0439|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: ()  
+Resultado Transaccion: Fallido  
+Request: System.Exception:  Se ha alcanzado el número máximo de intentos permitidos para el envío de facturas
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.timmer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 82
+   at ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Controllers\ServicioController.cs:line 29 
+Tipo objeto: 4
+Request: System.Exception:  Se ha alcanzado el número máximo de intentos permitidos para el envío de facturas
+   at ShoppingCenter.WebServices.Base.Servicios.Servicio.timmer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Servicio.cs:line 82
+   at ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Controllers\ServicioController.cs:line 29 
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-27 09:07:22.0439|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-27 09:07:22.0439|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-27 09:07:22.0636|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter), returned result Microsoft.AspNetCore.Mvc.BadRequestObjectResult in 20378.2535ms. 
+2025-05-27 09:07:22.0950|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.String'. 
+2025-05-27 09:07:22.1136|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) in 20447.8275ms 
+2025-05-27 09:07:22.1297|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 20958.5042ms 400 text/plain; charset=utf-8 

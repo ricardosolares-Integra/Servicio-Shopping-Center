@@ -1,0 +1,1436 @@
+2025-05-08 08:57:22.3948|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'D:\Users\ricardo.solares\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2025-05-08 08:57:23.7816|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:50246/  0 
+2025-05-08 08:57:23.9049|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 118.0559ms 200  
+2025-05-08 08:57:51.5400|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:50246/IGT/Servicio/ServiceTimer   
+2025-05-08 08:57:52.6358|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "ServiceTimer", controller = "Servicio"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] serviceTimer() on controller ShoppingCenter.WebServices.Base.Controllers.ServicioController (WebServicesShoppingCenter). 
+2025-05-08 08:57:52.6792|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) - Validation state: Valid 
+2025-05-08 09:26:42.4305|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'D:\Users\ricardo.solares\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2025-05-08 09:26:43.9423|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:50246/  0 
+2025-05-08 09:26:44.0765|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 127.2644ms 200  
+2025-05-08 09:28:38.2900|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:50246/IGT/Servicio/ServiceTimer   
+2025-05-08 09:28:38.9007|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "ServiceTimer", controller = "Servicio"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] serviceTimer() on controller ShoppingCenter.WebServices.Base.Controllers.ServicioController (WebServicesShoppingCenter). 
+2025-05-08 09:28:38.9441|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) - Validation state: Valid 
+2025-05-08 09:50:39.9976|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'D:\Users\ricardo.solares\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2025-05-08 09:50:41.8666|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:50246/  0 
+2025-05-08 09:50:42.0142|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 139.8827ms 200  
+2025-05-08 09:50:58.0131|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:50246/IGT/Servicio/ServiceTimer   
+2025-05-08 09:50:59.3499|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "ServiceTimer", controller = "Servicio"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] serviceTimer() on controller ShoppingCenter.WebServices.Base.Controllers.ServicioController (WebServicesShoppingCenter). 
+2025-05-08 09:50:59.3937|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) - Validation state: Valid 
+2025-05-08 09:52:19.5537|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-08 09:52:19.5537|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 09:52:19.8770|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /Invoices?$select=DocEntry&$filter=U_IdMenuLink eq 'F001' and Cancelled eq 'tNO'&$orderby=DocEntry desc 
+Resultado Transaccion: Fallido  
+Request:  
+Tipo objeto: 2
+Request:  
+ 
+2025-05-08 09:52:19.8770|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /Invoices?$select=DocEntry&$filter=U_IdMenuLink eq 'F001' and Cancelled eq 'tNO'&$orderby=DocEntry desc 
+Resultado Transaccion: Fallido  
+Request:  
+Tipo objeto: 2
+Request:  
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 09:52:19.8770|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-08 09:52:19.8770|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 09:52:20.1305|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-08 09:52:20.1305|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 09:52:20.5791|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /Invoices?$select=DocEntry&$filter=U_IdMenuLink eq 'F001' and Cancelled eq 'tNO'&$orderby=DocEntry desc 
+Resultado Transaccion: Fallido  
+Request:  
+Tipo objeto: 2
+Request:  
+ 
+2025-05-08 09:52:20.5791|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /Invoices?$select=DocEntry&$filter=U_IdMenuLink eq 'F001' and Cancelled eq 'tNO'&$orderby=DocEntry desc 
+Resultado Transaccion: Fallido  
+Request:  
+Tipo objeto: 2
+Request:  
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 09:52:20.5791|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-08 09:52:20.5791|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 09:52:20.9376|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-08 09:52:20.9376|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 09:52:21.3354|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: System.FieldAccessException: {
+   "error" : {
+      "code" : -1000,
+      "message" : {
+         "lang" : "en-us",
+         "value" : "Property 'U_IdMenuLink' of 'Document'is invalid"
+      }
+   }
+}
+
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.getDocumentoExistente(String txtIdExterno, String valorIdExterno, String txtIdSap, String metodoSAP, Int32 constanteTipoObjetoSap, Int32 constanteObjetoSapIndexes) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 124
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 59
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 132 
+Tipo objeto: 2
+Request: System.FieldAccessException: {
+   "error" : {
+      "code" : -1000,
+      "message" : {
+         "lang" : "en-us",
+         "value" : "Property 'U_IdMenuLink' of 'Document'is invalid"
+      }
+   }
+}
+
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.getDocumentoExistente(String txtIdExterno, String valorIdExterno, String txtIdSap, String metodoSAP, Int32 constanteTipoObjetoSap, Int32 constanteObjetoSapIndexes) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 124
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 59
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 132 
+ 
+2025-05-08 09:52:21.3354|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: System.FieldAccessException: {
+   "error" : {
+      "code" : -1000,
+      "message" : {
+         "lang" : "en-us",
+         "value" : "Property 'U_IdMenuLink' of 'Document'is invalid"
+      }
+   }
+}
+
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.getDocumentoExistente(String txtIdExterno, String valorIdExterno, String txtIdSap, String metodoSAP, Int32 constanteTipoObjetoSap, Int32 constanteObjetoSapIndexes) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 124
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 59
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 132 
+Tipo objeto: 2
+Request: System.FieldAccessException: {
+   "error" : {
+      "code" : -1000,
+      "message" : {
+         "lang" : "en-us",
+         "value" : "Property 'U_IdMenuLink' of 'Document'is invalid"
+      }
+   }
+}
+
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.getDocumentoExistente(String txtIdExterno, String valorIdExterno, String txtIdSap, String metodoSAP, Int32 constanteTipoObjetoSap, Int32 constanteObjetoSapIndexes) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 124
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 59
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 132 
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 09:52:21.3403|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-08 09:52:21.3403|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 09:52:46.9653|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 107561.3379ms. 
+2025-05-08 09:52:47.0021|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.String'. 
+2025-05-08 09:52:47.0413|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) in 107681.9512ms 
+2025-05-08 09:52:47.0413|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 109045.9964ms 200 text/plain; charset=utf-8 
+2025-05-08 09:53:34.0042|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:50246/IGT/Servicio/ServiceTimer   
+2025-05-08 09:53:34.0399|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "ServiceTimer", controller = "Servicio"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] serviceTimer() on controller ShoppingCenter.WebServices.Base.Controllers.ServicioController (WebServicesShoppingCenter). 
+2025-05-08 09:53:34.0399|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) - Validation state: Valid 
+2025-05-08 09:54:21.3332|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-08 09:54:21.3332|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 09:54:21.6228|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /Invoices?$select=DocEntry&$filter=U_IdMenuLink eq 'F001' and Cancelled eq 'tNO'&$orderby=DocEntry desc 
+Resultado Transaccion: Fallido  
+Request:  
+Tipo objeto: 2
+Request:  
+ 
+2025-05-08 09:54:21.6228|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /Invoices?$select=DocEntry&$filter=U_IdMenuLink eq 'F001' and Cancelled eq 'tNO'&$orderby=DocEntry desc 
+Resultado Transaccion: Fallido  
+Request:  
+Tipo objeto: 2
+Request:  
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 09:54:21.6228|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-08 09:54:21.6228|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 09:54:21.8642|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-08 09:54:21.8642|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 09:54:22.3013|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /Invoices?$select=DocEntry&$filter=U_IdMenuLink eq 'F001' and Cancelled eq 'tNO'&$orderby=DocEntry desc 
+Resultado Transaccion: Fallido  
+Request:  
+Tipo objeto: 2
+Request:  
+ 
+2025-05-08 09:54:22.3013|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /Invoices?$select=DocEntry&$filter=U_IdMenuLink eq 'F001' and Cancelled eq 'tNO'&$orderby=DocEntry desc 
+Resultado Transaccion: Fallido  
+Request:  
+Tipo objeto: 2
+Request:  
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 09:54:22.3080|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-08 09:54:22.3080|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 09:55:54.1869|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'D:\Users\ricardo.solares\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2025-05-08 09:55:56.2219|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:50246/  0 
+2025-05-08 09:55:56.3659|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 140.2325ms 200  
+2025-05-08 09:56:04.5947|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:50246/IGT/Servicio/ServiceTimer   
+2025-05-08 09:56:05.7055|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "ServiceTimer", controller = "Servicio"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] serviceTimer() on controller ShoppingCenter.WebServices.Base.Controllers.ServicioController (WebServicesShoppingCenter). 
+2025-05-08 09:56:05.7580|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) - Validation state: Valid 
+2025-05-08 09:58:28.1229|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'D:\Users\ricardo.solares\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2025-05-08 09:58:30.0046|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:50246/  0 
+2025-05-08 09:58:30.1933|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 184.2838ms 200  
+2025-05-08 09:58:59.8798|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:50246/IGT/Servicio/ServiceTimer   
+2025-05-08 09:59:00.9506|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "ServiceTimer", controller = "Servicio"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] serviceTimer() on controller ShoppingCenter.WebServices.Base.Controllers.ServicioController (WebServicesShoppingCenter). 
+2025-05-08 09:59:01.0029|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) - Validation state: Valid 
+2025-05-08 09:59:52.2294|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-08 09:59:52.2294|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 09:59:52.6740|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /Invoices?$select=DocEntry&$filter=U_ eq 'F001' and Cancelled eq 'tNO'&$orderby=DocEntry desc 
+Resultado Transaccion: Fallido  
+Request:  
+Tipo objeto: 2
+Request:  
+ 
+2025-05-08 09:59:52.6740|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /Invoices?$select=DocEntry&$filter=U_ eq 'F001' and Cancelled eq 'tNO'&$orderby=DocEntry desc 
+Resultado Transaccion: Fallido  
+Request:  
+Tipo objeto: 2
+Request:  
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 09:59:52.6740|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-08 09:59:52.6740|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 09:59:52.9187|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-08 09:59:52.9187|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 09:59:53.3217|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /Invoices?$select=DocEntry&$filter=U_ eq 'F001' and Cancelled eq 'tNO'&$orderby=DocEntry desc 
+Resultado Transaccion: Fallido  
+Request:  
+Tipo objeto: 2
+Request:  
+ 
+2025-05-08 09:59:53.3217|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /Invoices?$select=DocEntry&$filter=U_ eq 'F001' and Cancelled eq 'tNO'&$orderby=DocEntry desc 
+Resultado Transaccion: Fallido  
+Request:  
+Tipo objeto: 2
+Request:  
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 09:59:53.3282|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-08 09:59:53.3282|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 09:59:53.7283|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-08 09:59:53.7283|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 09:59:54.1434|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: System.FieldAccessException: {
+   "error" : {
+      "code" : -1000,
+      "message" : {
+         "lang" : "en-us",
+         "value" : "Property 'U_' of 'Document'is invalid"
+      }
+   }
+}
+
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.getDocumentoExistente(String txtIdExterno, String valorIdExterno, String txtIdSap, String metodoSAP, Int32 constanteTipoObjetoSap, Int32 constanteObjetoSapIndexes) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 124
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 59
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 133 
+Tipo objeto: 2
+Request: System.FieldAccessException: {
+   "error" : {
+      "code" : -1000,
+      "message" : {
+         "lang" : "en-us",
+         "value" : "Property 'U_' of 'Document'is invalid"
+      }
+   }
+}
+
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.getDocumentoExistente(String txtIdExterno, String valorIdExterno, String txtIdSap, String metodoSAP, Int32 constanteTipoObjetoSap, Int32 constanteObjetoSapIndexes) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 124
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 59
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 133 
+ 
+2025-05-08 09:59:54.1434|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: System.FieldAccessException: {
+   "error" : {
+      "code" : -1000,
+      "message" : {
+         "lang" : "en-us",
+         "value" : "Property 'U_' of 'Document'is invalid"
+      }
+   }
+}
+
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.getDocumentoExistente(String txtIdExterno, String valorIdExterno, String txtIdSap, String metodoSAP, Int32 constanteTipoObjetoSap, Int32 constanteObjetoSapIndexes) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 124
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 59
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 133 
+Tipo objeto: 2
+Request: System.FieldAccessException: {
+   "error" : {
+      "code" : -1000,
+      "message" : {
+         "lang" : "en-us",
+         "value" : "Property 'U_' of 'Document'is invalid"
+      }
+   }
+}
+
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.getDocumentoExistente(String txtIdExterno, String valorIdExterno, String txtIdSap, String metodoSAP, Int32 constanteTipoObjetoSap, Int32 constanteObjetoSapIndexes) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 124
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 59
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 133 
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 09:59:54.1434|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-08 09:59:54.1434|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 09:59:56.1794|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 55164.5325ms. 
+2025-05-08 09:59:56.2127|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.String'. 
+2025-05-08 09:59:56.2406|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) in 55279.1147ms 
+2025-05-08 09:59:56.2575|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 56379.6661ms 200 text/plain; charset=utf-8 
+2025-05-08 10:00:07.6207|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:50246/IGT/Servicio/ServiceTimer   
+2025-05-08 10:00:07.6207|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "ServiceTimer", controller = "Servicio"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] serviceTimer() on controller ShoppingCenter.WebServices.Base.Controllers.ServicioController (WebServicesShoppingCenter). 
+2025-05-08 10:00:07.6207|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) - Validation state: Valid 
+2025-05-08 10:00:49.2071|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-08 10:00:49.2071|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 10:00:49.5313|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /Invoices?$select=DocEntry&$filter=U_ eq 'F001' and Cancelled eq 'tNO'&$orderby=DocEntry desc 
+Resultado Transaccion: Fallido  
+Request:  
+Tipo objeto: 2
+Request:  
+ 
+2025-05-08 10:00:49.5313|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /Invoices?$select=DocEntry&$filter=U_ eq 'F001' and Cancelled eq 'tNO'&$orderby=DocEntry desc 
+Resultado Transaccion: Fallido  
+Request:  
+Tipo objeto: 2
+Request:  
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 10:00:49.5313|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-08 10:00:49.5313|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 10:00:49.7462|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-08 10:00:49.7462|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 10:00:50.1147|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /Invoices?$select=DocEntry&$filter=U_ eq 'F001' and Cancelled eq 'tNO'&$orderby=DocEntry desc 
+Resultado Transaccion: Fallido  
+Request:  
+Tipo objeto: 2
+Request:  
+ 
+2025-05-08 10:00:50.1147|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /Invoices?$select=DocEntry&$filter=U_ eq 'F001' and Cancelled eq 'tNO'&$orderby=DocEntry desc 
+Resultado Transaccion: Fallido  
+Request:  
+Tipo objeto: 2
+Request:  
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 10:00:50.1147|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-08 10:00:50.1147|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 10:04:39.1453|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-08 10:04:39.1453|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 10:04:39.6052|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: System.FieldAccessException: {
+   "error" : {
+      "code" : -1000,
+      "message" : {
+         "lang" : "en-us",
+         "value" : "Property 'U_' of 'Document'is invalid"
+      }
+   }
+}
+
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.getDocumentoExistente(String txtIdExterno, String valorIdExterno, String txtIdSap, String metodoSAP, Int32 constanteTipoObjetoSap, Int32 constanteObjetoSapIndexes) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 124
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 59
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 133 
+Tipo objeto: 2
+Request: System.FieldAccessException: {
+   "error" : {
+      "code" : -1000,
+      "message" : {
+         "lang" : "en-us",
+         "value" : "Property 'U_' of 'Document'is invalid"
+      }
+   }
+}
+
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.getDocumentoExistente(String txtIdExterno, String valorIdExterno, String txtIdSap, String metodoSAP, Int32 constanteTipoObjetoSap, Int32 constanteObjetoSapIndexes) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 124
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 59
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 133 
+ 
+2025-05-08 10:04:39.6052|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: System.FieldAccessException: {
+   "error" : {
+      "code" : -1000,
+      "message" : {
+         "lang" : "en-us",
+         "value" : "Property 'U_' of 'Document'is invalid"
+      }
+   }
+}
+
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.getDocumentoExistente(String txtIdExterno, String valorIdExterno, String txtIdSap, String metodoSAP, Int32 constanteTipoObjetoSap, Int32 constanteObjetoSapIndexes) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 124
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 59
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 133 
+Tipo objeto: 2
+Request: System.FieldAccessException: {
+   "error" : {
+      "code" : -1000,
+      "message" : {
+         "lang" : "en-us",
+         "value" : "Property 'U_' of 'Document'is invalid"
+      }
+   }
+}
+
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.getDocumentoExistente(String txtIdExterno, String valorIdExterno, String txtIdSap, String metodoSAP, Int32 constanteTipoObjetoSap, Int32 constanteObjetoSapIndexes) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 124
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 59
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 133 
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 10:04:39.6052|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-08 10:04:39.6052|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 10:04:41.4415|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 273819.8615ms. 
+2025-05-08 10:04:41.4415|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.String'. 
+2025-05-08 10:04:41.4415|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) in 273827.8877ms 
+2025-05-08 10:04:41.4415|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 273835.9433ms 200 text/plain; charset=utf-8 
+2025-05-08 10:04:49.5628|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:50246/IGT/Servicio/ServiceTimer   
+2025-05-08 10:04:49.5650|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "ServiceTimer", controller = "Servicio"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] serviceTimer() on controller ShoppingCenter.WebServices.Base.Controllers.ServicioController (WebServicesShoppingCenter). 
+2025-05-08 10:04:49.5650|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) - Validation state: Valid 
+2025-05-08 10:20:08.4649|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'D:\Users\ricardo.solares\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2025-05-08 10:20:10.1050|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:50246/  0 
+2025-05-08 10:20:10.2385|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 119.5509ms 200  
+2025-05-08 10:20:26.7983|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:50246/IGT/Servicio/ServiceTimer   
+2025-05-08 10:20:27.8906|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "ServiceTimer", controller = "Servicio"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] serviceTimer() on controller ShoppingCenter.WebServices.Base.Controllers.ServicioController (WebServicesShoppingCenter). 
+2025-05-08 10:20:27.9419|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) - Validation state: Valid 
+2025-05-08 10:21:11.3057|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-08 10:21:11.3057|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 10:21:11.8355|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(ReadOnlySpan`1 str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(ReadOnlySpan`1 s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.updateIntermedia(String idTabla, String idSAP, String nameBD) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 154
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 73
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 133 
+Tipo objeto: 2
+Request: System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(ReadOnlySpan`1 str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(ReadOnlySpan`1 s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.updateIntermedia(String idTabla, String idSAP, String nameBD) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 154
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 73
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 133 
+ 
+2025-05-08 10:21:11.8355|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(ReadOnlySpan`1 str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(ReadOnlySpan`1 s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.updateIntermedia(String idTabla, String idSAP, String nameBD) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 154
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 73
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 133 
+Tipo objeto: 2
+Request: System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(ReadOnlySpan`1 str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(ReadOnlySpan`1 s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.updateIntermedia(String idTabla, String idSAP, String nameBD) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 154
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 73
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 133 
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 10:21:11.8407|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-08 10:21:11.8407|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 10:21:14.9655|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 47011.1354ms. 
+2025-05-08 10:21:15.0116|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.String'. 
+2025-05-08 10:21:15.0408|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) in 47137.1897ms 
+2025-05-08 10:21:15.0597|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 48263.1517ms 200 text/plain; charset=utf-8 
+2025-05-08 10:24:13.5447|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:50246/IGT/Servicio/ServiceTimer   
+2025-05-08 10:24:13.5785|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "ServiceTimer", controller = "Servicio"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] serviceTimer() on controller ShoppingCenter.WebServices.Base.Controllers.ServicioController (WebServicesShoppingCenter). 
+2025-05-08 10:24:13.5785|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) - Validation state: Valid 
+2025-05-08 10:26:56.2377|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-08 10:26:56.2377|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 10:26:56.5550|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(ReadOnlySpan`1 str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(ReadOnlySpan`1 s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.updateIntermedia(String idTabla, String idSAP, String nameBD) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 154
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 73
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 133 
+Tipo objeto: 2
+Request: System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(ReadOnlySpan`1 str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(ReadOnlySpan`1 s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.updateIntermedia(String idTabla, String idSAP, String nameBD) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 154
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 73
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 133 
+ 
+2025-05-08 10:26:56.5550|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(ReadOnlySpan`1 str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(ReadOnlySpan`1 s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.updateIntermedia(String idTabla, String idSAP, String nameBD) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 154
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 73
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 133 
+Tipo objeto: 2
+Request: System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(ReadOnlySpan`1 str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(ReadOnlySpan`1 s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.updateIntermedia(String idTabla, String idSAP, String nameBD) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 154
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 73
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 133 
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 10:26:56.5550|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-08 10:26:56.5550|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 10:26:59.5834|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 166005.4071ms. 
+2025-05-08 10:26:59.5834|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.String'. 
+2025-05-08 10:26:59.5834|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) in 166017.371ms 
+2025-05-08 10:26:59.5956|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 166056.8657ms 200 text/plain; charset=utf-8 
+2025-05-08 10:35:52.9087|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'D:\Users\ricardo.solares\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2025-05-08 10:35:53.9578|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:50246/  0 
+2025-05-08 10:35:54.0690|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 108.1667ms 200  
+2025-05-08 10:38:13.8230|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:50246/IGT/Servicio/ServiceTimer   
+2025-05-08 10:38:14.5664|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "ServiceTimer", controller = "Servicio"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] serviceTimer() on controller ShoppingCenter.WebServices.Base.Controllers.ServicioController (WebServicesShoppingCenter). 
+2025-05-08 10:38:14.5909|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) - Validation state: Valid 
+2025-05-08 10:42:34.9859|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-08 10:42:34.9859|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 10:42:35.9489|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: System.ArgumentException: Column 'Enviado' does not belong to table T_FACTURACLI.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 70
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 132 
+Tipo objeto: 2
+Request: System.ArgumentException: Column 'Enviado' does not belong to table T_FACTURACLI.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 70
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 132 
+ 
+2025-05-08 10:42:35.9489|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: System.ArgumentException: Column 'Enviado' does not belong to table T_FACTURACLI.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 70
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 132 
+Tipo objeto: 2
+Request: System.ArgumentException: Column 'Enviado' does not belong to table T_FACTURACLI.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 70
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 132 
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 10:42:35.9489|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-08 10:42:35.9489|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 10:42:39.0789|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 264488.7354ms. 
+2025-05-08 10:42:39.0950|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.String'. 
+2025-05-08 10:42:39.0950|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) in 264545.8265ms 
+2025-05-08 10:42:39.1200|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 265305.8906ms 200 text/plain; charset=utf-8 
+2025-05-08 10:42:43.6478|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:50246/IGT/Servicio/ServiceTimer   
+2025-05-08 10:42:43.6478|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "ServiceTimer", controller = "Servicio"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] serviceTimer() on controller ShoppingCenter.WebServices.Base.Controllers.ServicioController (WebServicesShoppingCenter). 
+2025-05-08 10:42:43.6478|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) - Validation state: Valid 
+2025-05-08 10:43:11.4289|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-08 10:43:11.4289|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 10:43:11.6861|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: System.ArgumentException: Column 'Enviado' does not belong to table T_FACTURACLI.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 70
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 132 
+Tipo objeto: 2
+Request: System.ArgumentException: Column 'Enviado' does not belong to table T_FACTURACLI.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 70
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 132 
+ 
+2025-05-08 10:43:11.6861|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: System.ArgumentException: Column 'Enviado' does not belong to table T_FACTURACLI.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 70
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 132 
+Tipo objeto: 2
+Request: System.ArgumentException: Column 'Enviado' does not belong to table T_FACTURACLI.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 70
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 132 
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 10:43:11.6861|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-08 10:43:11.6861|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 10:43:16.4896|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 32839.9662ms. 
+2025-05-08 10:43:16.4896|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.String'. 
+2025-05-08 10:43:16.4896|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) in 32846.1562ms 
+2025-05-08 10:43:16.4896|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 32851.2855ms 200 text/plain; charset=utf-8 
+2025-05-08 11:32:03.3588|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'D:\Users\ricardo.solares\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2025-05-08 11:32:05.1452|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:50246/  0 
+2025-05-08 11:32:05.2950|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 146.4834ms 200  
+2025-05-08 11:32:51.1649|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:50246/IGT/Servicio/ServiceTimer   
+2025-05-08 11:32:52.3806|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "ServiceTimer", controller = "Servicio"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] serviceTimer() on controller ShoppingCenter.WebServices.Base.Controllers.ServicioController (WebServicesShoppingCenter). 
+2025-05-08 11:32:52.4339|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) - Validation state: Valid 
+2025-05-08 11:35:13.2463|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-08 11:35:13.2463|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 11:35:13.9878|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: System.ArgumentException: Column 'Enviado' does not belong to table T_FACTURACLI.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 70
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 132 
+Tipo objeto: 2
+Request: System.ArgumentException: Column 'Enviado' does not belong to table T_FACTURACLI.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 70
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 132 
+ 
+2025-05-08 11:35:13.9878|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: System.ArgumentException: Column 'Enviado' does not belong to table T_FACTURACLI.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 70
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 132 
+Tipo objeto: 2
+Request: System.ArgumentException: Column 'Enviado' does not belong to table T_FACTURACLI.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 70
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 132 
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 11:35:13.9878|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-08 11:35:13.9878|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 11:35:17.2314|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 144798.4504ms. 
+2025-05-08 11:35:17.2618|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.String'. 
+2025-05-08 11:35:17.2879|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) in 144905.881ms 
+2025-05-08 11:35:17.3087|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 146155.4556ms 200 text/plain; charset=utf-8 
+2025-05-08 11:36:02.5021|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'D:\Users\ricardo.solares\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2025-05-08 11:36:04.3791|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:50246/  0 
+2025-05-08 11:36:04.5961|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 197.0711ms 200  
+2025-05-08 11:36:13.1651|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:50246/IGT/Servicio/ServiceTimer   
+2025-05-08 11:36:14.1346|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "ServiceTimer", controller = "Servicio"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] serviceTimer() on controller ShoppingCenter.WebServices.Base.Controllers.ServicioController (WebServicesShoppingCenter). 
+2025-05-08 11:36:14.1788|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) - Validation state: Valid 
+2025-05-08 11:37:42.1204|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-08 11:37:42.1204|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 11:37:42.6857|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: System.ArgumentException: Column 'Enviado' does not belong to table T_FACTURACLI.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 70
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 132 
+Tipo objeto: 2
+Request: System.ArgumentException: Column 'Enviado' does not belong to table T_FACTURACLI.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 70
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 132 
+ 
+2025-05-08 11:37:42.6857|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: System.ArgumentException: Column 'Enviado' does not belong to table T_FACTURACLI.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 70
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 132 
+Tipo objeto: 2
+Request: System.ArgumentException: Column 'Enviado' does not belong to table T_FACTURACLI.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 70
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 132 
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 11:37:42.6857|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-08 11:37:42.6857|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 11:37:45.7010|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 91517.0229ms. 
+2025-05-08 11:37:45.7260|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.String'. 
+2025-05-08 11:37:45.7457|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) in 91607.1554ms 
+2025-05-08 11:37:45.7589|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 92600.2777ms 200 text/plain; charset=utf-8 
+2025-05-08 11:41:55.6400|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'D:\Users\ricardo.solares\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2025-05-08 11:41:57.7084|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:50246/  0 
+2025-05-08 11:41:57.8454|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 133.2864ms 200  
+2025-05-08 11:42:51.4234|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:50246/IGT/Servicio/ServiceTimer   
+2025-05-08 11:42:52.5487|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "ServiceTimer", controller = "Servicio"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] serviceTimer() on controller ShoppingCenter.WebServices.Base.Controllers.ServicioController (WebServicesShoppingCenter). 
+2025-05-08 11:42:52.6196|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) - Validation state: Valid 
+2025-05-08 11:50:40.0878|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'D:\Users\ricardo.solares\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2025-05-08 11:50:41.1904|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:50246/  0 
+2025-05-08 11:50:41.3075|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 114.9587ms 200  
+2025-05-08 13:16:37.1970|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'D:\Users\ricardo.solares\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2025-05-08 13:16:38.3269|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:50246/  0 
+2025-05-08 13:16:38.4253|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 96.2495ms 200  
+2025-05-08 13:16:53.3613|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:50246/IGT/Servicio/ServiceTimer   
+2025-05-08 13:16:54.5299|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "ServiceTimer", controller = "Servicio"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] serviceTimer() on controller ShoppingCenter.WebServices.Base.Controllers.ServicioController (WebServicesShoppingCenter). 
+2025-05-08 13:16:54.5952|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) - Validation state: Valid 
+2025-05-08 13:18:42.6698|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-08 13:18:42.6698|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 13:18:43.1681|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: {
+  "CardCode": "CLI0001",
+  "TaxDate": "2025-05-07T10:30:00",
+  "U_IdFactura": "F001",
+  "U_Bodega": "BOD001",
+  "U_TipoDTE": "01",
+  "U_NumeroControl": "NC123456",
+  "U_CodigoGeneracion": "CG987654",
+  "U_SelloMH": "SMH001",
+  "U_NumeroControl_Del": "NC100"
+} 
+Tipo objeto: 2
+Request: {
+  "CardCode": "CLI0001",
+  "TaxDate": "2025-05-07T10:30:00",
+  "U_IdFactura": "F001",
+  "U_Bodega": "BOD001",
+  "U_TipoDTE": "01",
+  "U_NumeroControl": "NC123456",
+  "U_CodigoGeneracion": "CG987654",
+  "U_SelloMH": "SMH001",
+  "U_NumeroControl_Del": "NC100"
+} 
+ 
+2025-05-08 13:18:43.1681|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: {
+  "CardCode": "CLI0001",
+  "TaxDate": "2025-05-07T10:30:00",
+  "U_IdFactura": "F001",
+  "U_Bodega": "BOD001",
+  "U_TipoDTE": "01",
+  "U_NumeroControl": "NC123456",
+  "U_CodigoGeneracion": "CG987654",
+  "U_SelloMH": "SMH001",
+  "U_NumeroControl_Del": "NC100"
+} 
+Tipo objeto: 2
+Request: {
+  "CardCode": "CLI0001",
+  "TaxDate": "2025-05-07T10:30:00",
+  "U_IdFactura": "F001",
+  "U_Bodega": "BOD001",
+  "U_TipoDTE": "01",
+  "U_NumeroControl": "NC123456",
+  "U_CodigoGeneracion": "CG987654",
+  "U_SelloMH": "SMH001",
+  "U_NumeroControl_Del": "NC100"
+} 
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 13:18:43.1681|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-08 13:18:43.1681|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 13:18:43.3325|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-08 13:18:43.3325|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 13:18:43.7221|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: System.FieldAccessException: {
+   "error" : {
+      "code" : -2028,
+      "message" : {
+         "lang" : "en-us",
+         "value" : "Invalid BP code  [OINV.CardCode] , 'CLI0001'"
+      }
+   }
+}
+
+   at ShoppingCenter.WebServices.Base.Utilidades.Conexion.RandomRest(String Metodo, String Data, String URL, Int32 idTipoObjetoSap, Int32 idObjetoSap, String idObjetoIntermedia, Boolean UltimoIntento) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Utilidades\Conexion.cs:line 478
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.finalizarIntento(Boolean enviado, String bdIntermedia, String Metodo, String Data, String URL, Int32 IdTipoObjetoSap, Int32 idObjetoSap, String IdObjetoIntermedia, String TxtIdSap) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 60
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 107
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 134 
+Tipo objeto: 2
+Request: System.FieldAccessException: {
+   "error" : {
+      "code" : -2028,
+      "message" : {
+         "lang" : "en-us",
+         "value" : "Invalid BP code  [OINV.CardCode] , 'CLI0001'"
+      }
+   }
+}
+
+   at ShoppingCenter.WebServices.Base.Utilidades.Conexion.RandomRest(String Metodo, String Data, String URL, Int32 idTipoObjetoSap, Int32 idObjetoSap, String idObjetoIntermedia, Boolean UltimoIntento) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Utilidades\Conexion.cs:line 478
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.finalizarIntento(Boolean enviado, String bdIntermedia, String Metodo, String Data, String URL, Int32 IdTipoObjetoSap, Int32 idObjetoSap, String IdObjetoIntermedia, String TxtIdSap) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 60
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 107
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 134 
+ 
+2025-05-08 13:18:43.7221|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: System.FieldAccessException: {
+   "error" : {
+      "code" : -2028,
+      "message" : {
+         "lang" : "en-us",
+         "value" : "Invalid BP code  [OINV.CardCode] , 'CLI0001'"
+      }
+   }
+}
+
+   at ShoppingCenter.WebServices.Base.Utilidades.Conexion.RandomRest(String Metodo, String Data, String URL, Int32 idTipoObjetoSap, Int32 idObjetoSap, String idObjetoIntermedia, Boolean UltimoIntento) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Utilidades\Conexion.cs:line 478
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.finalizarIntento(Boolean enviado, String bdIntermedia, String Metodo, String Data, String URL, Int32 IdTipoObjetoSap, Int32 idObjetoSap, String IdObjetoIntermedia, String TxtIdSap) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 60
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 107
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 134 
+Tipo objeto: 2
+Request: System.FieldAccessException: {
+   "error" : {
+      "code" : -2028,
+      "message" : {
+         "lang" : "en-us",
+         "value" : "Invalid BP code  [OINV.CardCode] , 'CLI0001'"
+      }
+   }
+}
+
+   at ShoppingCenter.WebServices.Base.Utilidades.Conexion.RandomRest(String Metodo, String Data, String URL, Int32 idTipoObjetoSap, Int32 idObjetoSap, String idObjetoIntermedia, Boolean UltimoIntento) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Utilidades\Conexion.cs:line 478
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.finalizarIntento(Boolean enviado, String bdIntermedia, String Metodo, String Data, String URL, Int32 IdTipoObjetoSap, Int32 idObjetoSap, String IdObjetoIntermedia, String TxtIdSap) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 60
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 107
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 134 
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 13:18:43.7221|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-08 13:18:43.7221|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 13:18:43.8993|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 109294.1543ms. 
+2025-05-08 13:18:43.9384|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.String'. 
+2025-05-08 13:18:43.9628|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) in 109427.5239ms 
+2025-05-08 13:18:43.9770|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 110628.2005ms 200 text/plain; charset=utf-8 
+2025-05-08 13:20:38.3269|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:50246/IGT/Servicio/ServiceTimer   
+2025-05-08 13:20:38.3393|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "ServiceTimer", controller = "Servicio"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] serviceTimer() on controller ShoppingCenter.WebServices.Base.Controllers.ServicioController (WebServicesShoppingCenter). 
+2025-05-08 13:20:38.3626|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) - Validation state: Valid 
+2025-05-08 13:23:08.8170|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-08 13:23:08.8170|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 13:23:09.3250|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: {
+  "CardCode": "CLI0001",
+  "TaxDate": "2025-05-07T10:30:00",
+  "U_IdFactura": "F001",
+  "U_Bodega": "BOD001",
+  "U_TipoDTE": "01",
+  "U_NumeroControl": "NC123456",
+  "U_CodigoGeneracion": "CG987654",
+  "U_SelloMH": "SMH001",
+  "U_NumeroControl_Del": "NC100"
+} 
+Tipo objeto: 2
+Request: {
+  "CardCode": "CLI0001",
+  "TaxDate": "2025-05-07T10:30:00",
+  "U_IdFactura": "F001",
+  "U_Bodega": "BOD001",
+  "U_TipoDTE": "01",
+  "U_NumeroControl": "NC123456",
+  "U_CodigoGeneracion": "CG987654",
+  "U_SelloMH": "SMH001",
+  "U_NumeroControl_Del": "NC100"
+} 
+ 
+2025-05-08 13:23:09.3250|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: {
+  "CardCode": "CLI0001",
+  "TaxDate": "2025-05-07T10:30:00",
+  "U_IdFactura": "F001",
+  "U_Bodega": "BOD001",
+  "U_TipoDTE": "01",
+  "U_NumeroControl": "NC123456",
+  "U_CodigoGeneracion": "CG987654",
+  "U_SelloMH": "SMH001",
+  "U_NumeroControl_Del": "NC100"
+} 
+Tipo objeto: 2
+Request: {
+  "CardCode": "CLI0001",
+  "TaxDate": "2025-05-07T10:30:00",
+  "U_IdFactura": "F001",
+  "U_Bodega": "BOD001",
+  "U_TipoDTE": "01",
+  "U_NumeroControl": "NC123456",
+  "U_CodigoGeneracion": "CG987654",
+  "U_SelloMH": "SMH001",
+  "U_NumeroControl_Del": "NC100"
+} 
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 13:23:09.3250|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-08 13:23:09.3250|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 13:25:24.6493|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-08 13:25:24.6493|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 13:25:25.0613|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: System.FieldAccessException: {
+   "error" : {
+      "code" : -2028,
+      "message" : {
+         "lang" : "en-us",
+         "value" : "Invalid BP code  [OINV.CardCode] , 'CLI0001'"
+      }
+   }
+}
+
+   at ShoppingCenter.WebServices.Base.Utilidades.Conexion.RandomRest(String Metodo, String Data, String URL, Int32 idTipoObjetoSap, Int32 idObjetoSap, String idObjetoIntermedia, Boolean UltimoIntento) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Utilidades\Conexion.cs:line 478
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.finalizarIntento(Boolean enviado, String bdIntermedia, String Metodo, String Data, String URL, Int32 IdTipoObjetoSap, Int32 idObjetoSap, String IdObjetoIntermedia, String TxtIdSap) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 60
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 107
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 134 
+Tipo objeto: 2
+Request: System.FieldAccessException: {
+   "error" : {
+      "code" : -2028,
+      "message" : {
+         "lang" : "en-us",
+         "value" : "Invalid BP code  [OINV.CardCode] , 'CLI0001'"
+      }
+   }
+}
+
+   at ShoppingCenter.WebServices.Base.Utilidades.Conexion.RandomRest(String Metodo, String Data, String URL, Int32 idTipoObjetoSap, Int32 idObjetoSap, String idObjetoIntermedia, Boolean UltimoIntento) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Utilidades\Conexion.cs:line 478
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.finalizarIntento(Boolean enviado, String bdIntermedia, String Metodo, String Data, String URL, Int32 IdTipoObjetoSap, Int32 idObjetoSap, String IdObjetoIntermedia, String TxtIdSap) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 60
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 107
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 134 
+ 
+2025-05-08 13:25:25.0613|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: System.FieldAccessException: {
+   "error" : {
+      "code" : -2028,
+      "message" : {
+         "lang" : "en-us",
+         "value" : "Invalid BP code  [OINV.CardCode] , 'CLI0001'"
+      }
+   }
+}
+
+   at ShoppingCenter.WebServices.Base.Utilidades.Conexion.RandomRest(String Metodo, String Data, String URL, Int32 idTipoObjetoSap, Int32 idObjetoSap, String idObjetoIntermedia, Boolean UltimoIntento) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Utilidades\Conexion.cs:line 478
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.finalizarIntento(Boolean enviado, String bdIntermedia, String Metodo, String Data, String URL, Int32 IdTipoObjetoSap, Int32 idObjetoSap, String IdObjetoIntermedia, String TxtIdSap) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 60
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 107
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 134 
+Tipo objeto: 2
+Request: System.FieldAccessException: {
+   "error" : {
+      "code" : -2028,
+      "message" : {
+         "lang" : "en-us",
+         "value" : "Invalid BP code  [OINV.CardCode] , 'CLI0001'"
+      }
+   }
+}
+
+   at ShoppingCenter.WebServices.Base.Utilidades.Conexion.RandomRest(String Metodo, String Data, String URL, Int32 idTipoObjetoSap, Int32 idObjetoSap, String idObjetoIntermedia, Boolean UltimoIntento) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Utilidades\Conexion.cs:line 478
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.finalizarIntento(Boolean enviado, String bdIntermedia, String Metodo, String Data, String URL, Int32 IdTipoObjetoSap, Int32 idObjetoSap, String IdObjetoIntermedia, String TxtIdSap) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 60
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 107
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 134 
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 13:25:25.0613|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-08 13:25:25.0613|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 13:25:27.0082|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 288654.7112ms. 
+2025-05-08 13:25:27.0082|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.String'. 
+2025-05-08 13:25:27.0142|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) in 288674.6437ms 
+2025-05-08 13:25:27.0142|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 288702.5636ms 200 text/plain; charset=utf-8 
+2025-05-08 13:26:07.7267|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:50246/IGT/Servicio/ServiceTimer   
+2025-05-08 13:26:07.7442|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "ServiceTimer", controller = "Servicio"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] serviceTimer() on controller ShoppingCenter.WebServices.Base.Controllers.ServicioController (WebServicesShoppingCenter). 
+2025-05-08 13:26:07.7461|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) - Validation state: Valid 
+2025-05-08 13:27:18.0270|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-08 13:27:18.0270|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 13:27:18.4144|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: {
+  "CardCode": "CLI0001",
+  "TaxDate": "2025-05-07T10:30:00",
+  "U_IdFactura": "F001",
+  "U_Bodega": "BOD001",
+  "U_TipoDTE": "01",
+  "U_NumeroControl": "NC123456",
+  "U_CodigoGeneracion": "CG987654",
+  "U_SelloMH": "SMH001",
+  "U_NumeroControl_Del": "NC100"
+} 
+Tipo objeto: 2
+Request: {
+  "CardCode": "CLI0001",
+  "TaxDate": "2025-05-07T10:30:00",
+  "U_IdFactura": "F001",
+  "U_Bodega": "BOD001",
+  "U_TipoDTE": "01",
+  "U_NumeroControl": "NC123456",
+  "U_CodigoGeneracion": "CG987654",
+  "U_SelloMH": "SMH001",
+  "U_NumeroControl_Del": "NC100"
+} 
+ 
+2025-05-08 13:27:18.4144|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: {
+  "CardCode": "CLI0001",
+  "TaxDate": "2025-05-07T10:30:00",
+  "U_IdFactura": "F001",
+  "U_Bodega": "BOD001",
+  "U_TipoDTE": "01",
+  "U_NumeroControl": "NC123456",
+  "U_CodigoGeneracion": "CG987654",
+  "U_SelloMH": "SMH001",
+  "U_NumeroControl_Del": "NC100"
+} 
+Tipo objeto: 2
+Request: {
+  "CardCode": "CLI0001",
+  "TaxDate": "2025-05-07T10:30:00",
+  "U_IdFactura": "F001",
+  "U_Bodega": "BOD001",
+  "U_TipoDTE": "01",
+  "U_NumeroControl": "NC123456",
+  "U_CodigoGeneracion": "CG987654",
+  "U_SelloMH": "SMH001",
+  "U_NumeroControl_Del": "NC100"
+} 
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 13:27:18.4400|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-08 13:27:18.4400|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 15:04:56.8266|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'D:\Users\ricardo.solares\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2025-05-08 15:04:58.2424|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:50246/  0 
+2025-05-08 15:04:58.3477|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 101.9259ms 200  
+2025-05-08 15:05:40.1750|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:50246/IGT/Servicio/ServiceTimer   
+2025-05-08 15:05:40.9819|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "ServiceTimer", controller = "Servicio"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] serviceTimer() on controller ShoppingCenter.WebServices.Base.Controllers.ServicioController (WebServicesShoppingCenter). 
+2025-05-08 15:05:41.0329|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) - Validation state: Valid 
+2025-05-08 15:09:23.4198|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'D:\Users\ricardo.solares\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2025-05-08 15:09:24.5818|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:50246/  0 
+2025-05-08 15:09:24.6743|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 88.2995ms 200  
+2025-05-08 15:10:26.1465|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:50246/IGT/Servicio/ServiceTimer   
+2025-05-08 15:10:27.0614|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "ServiceTimer", controller = "Servicio"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] serviceTimer() on controller ShoppingCenter.WebServices.Base.Controllers.ServicioController (WebServicesShoppingCenter). 
+2025-05-08 15:10:27.1341|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) - Validation state: Valid 
+2025-05-08 15:16:17.9590|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'D:\Users\ricardo.solares\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2025-05-08 15:16:19.7738|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:50246/  0 
+2025-05-08 15:16:19.8385|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 62.0374ms 200  
+2025-05-08 15:17:03.2426|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:50246/IGT/Servicio/ServiceTimer   
+2025-05-08 15:17:04.4889|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "ServiceTimer", controller = "Servicio"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] serviceTimer() on controller ShoppingCenter.WebServices.Base.Controllers.ServicioController (WebServicesShoppingCenter). 
+2025-05-08 15:17:04.5390|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) - Validation state: Valid 
+2025-05-08 15:17:56.9068|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-08 15:17:56.9068|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 15:17:57.4322|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: System.ArgumentException: Column 'Enviado' does not belong to table T_FACTURACLI.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 71
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 134 
+Tipo objeto: 2
+Request: System.ArgumentException: Column 'Enviado' does not belong to table T_FACTURACLI.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 71
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 134 
+ 
+2025-05-08 15:17:57.4322|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: System.ArgumentException: Column 'Enviado' does not belong to table T_FACTURACLI.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 71
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 134 
+Tipo objeto: 2
+Request: System.ArgumentException: Column 'Enviado' does not belong to table T_FACTURACLI.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 71
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 134 
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 15:17:57.4322|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-08 15:17:57.4322|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 15:18:02.6147|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 58063.5ms. 
+2025-05-08 15:18:02.6575|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.String'. 
+2025-05-08 15:18:02.6799|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) in 58181.6301ms 
+2025-05-08 15:18:02.6981|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 59456.8312ms 200 text/plain; charset=utf-8 
+2025-05-08 15:18:18.6080|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:50246/IGT/Servicio/ServiceTimer   
+2025-05-08 15:18:18.6285|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "ServiceTimer", controller = "Servicio"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] serviceTimer() on controller ShoppingCenter.WebServices.Base.Controllers.ServicioController (WebServicesShoppingCenter). 
+2025-05-08 15:18:18.6500|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) - Validation state: Valid 
+2025-05-08 15:19:00.1933|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-08 15:19:00.1933|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 15:19:00.6432|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: System.ArgumentException: Column 'Enviado' does not belong to table T_FACTURACLI.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 71
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 134 
+Tipo objeto: 2
+Request: System.ArgumentException: Column 'Enviado' does not belong to table T_FACTURACLI.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 71
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 134 
+ 
+2025-05-08 15:19:00.6432|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: System.ArgumentException: Column 'Enviado' does not belong to table T_FACTURACLI.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 71
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 134 
+Tipo objeto: 2
+Request: System.ArgumentException: Column 'Enviado' does not belong to table T_FACTURACLI.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 71
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 134 
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 15:19:00.6624|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-08 15:19:00.6624|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 15:19:03.6857|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 45034.9396ms. 
+2025-05-08 15:19:03.6896|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.String'. 
+2025-05-08 15:19:03.6896|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) in 45055.0255ms 
+2025-05-08 15:19:03.6896|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 45088.3346ms 200 text/plain; charset=utf-8 
+2025-05-08 15:20:38.4397|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'D:\Users\ricardo.solares\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2025-05-08 15:20:40.2087|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:50246/  0 
+2025-05-08 15:20:40.2087|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:50246/IGT/Servicio/ServiceTimer   
+2025-05-08 15:20:40.3871|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 176.1198ms 200  
+2025-05-08 15:20:41.2985|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "ServiceTimer", controller = "Servicio"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] serviceTimer() on controller ShoppingCenter.WebServices.Base.Controllers.ServicioController (WebServicesShoppingCenter). 
+2025-05-08 15:20:41.3224|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) - Validation state: Valid 
+2025-05-08 15:22:03.6053|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-08 15:22:03.6053|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 15:22:04.0786|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: {
+  "CardCode": "CLI0001",
+  "TaxDate": "2025-05-07T10:30:00",
+  "U_IdFactura": "F001",
+  "U_Bodega": "BOD001",
+  "U_TipoDTE": "01",
+  "U_NumeroControl": "NC123456",
+  "U_CodigoGeneracion": "CG987654",
+  "U_SelloMH": "SMH001",
+  "U_NumeroControl_Del": "NC100"
+} 
+Tipo objeto: 2
+Request: {
+  "CardCode": "CLI0001",
+  "TaxDate": "2025-05-07T10:30:00",
+  "U_IdFactura": "F001",
+  "U_Bodega": "BOD001",
+  "U_TipoDTE": "01",
+  "U_NumeroControl": "NC123456",
+  "U_CodigoGeneracion": "CG987654",
+  "U_SelloMH": "SMH001",
+  "U_NumeroControl_Del": "NC100"
+} 
+ 
+2025-05-08 15:22:04.0786|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: {
+  "CardCode": "CLI0001",
+  "TaxDate": "2025-05-07T10:30:00",
+  "U_IdFactura": "F001",
+  "U_Bodega": "BOD001",
+  "U_TipoDTE": "01",
+  "U_NumeroControl": "NC123456",
+  "U_CodigoGeneracion": "CG987654",
+  "U_SelloMH": "SMH001",
+  "U_NumeroControl_Del": "NC100"
+} 
+Tipo objeto: 2
+Request: {
+  "CardCode": "CLI0001",
+  "TaxDate": "2025-05-07T10:30:00",
+  "U_IdFactura": "F001",
+  "U_Bodega": "BOD001",
+  "U_TipoDTE": "01",
+  "U_NumeroControl": "NC123456",
+  "U_CodigoGeneracion": "CG987654",
+  "U_SelloMH": "SMH001",
+  "U_NumeroControl_Del": "NC100"
+} 
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 15:22:04.0786|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-08 15:22:04.0786|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:02:05.7647|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'D:\Users\ricardo.solares\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2025-05-08 16:02:07.6164|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:50246/  0 
+2025-05-08 16:02:07.7317|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 114.3702ms 200  
+2025-05-08 16:03:03.5944|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:50246/IGT/Servicio/ServiceTimer   
+2025-05-08 16:03:04.7487|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "ServiceTimer", controller = "Servicio"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] serviceTimer() on controller ShoppingCenter.WebServices.Base.Controllers.ServicioController (WebServicesShoppingCenter). 
+2025-05-08 16:03:04.7920|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) - Validation state: Valid 
+2025-05-08 16:05:39.8973|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-08 16:05:39.8973|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:05:40.2878|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /Items?$select=ItemCode&$filter=U_IdMenuLink eq 'A17' 
+Resultado Transaccion: Fallido  
+Request:  
+Tipo objeto: 4
+Request:  
+ 
+2025-05-08 16:05:40.2878|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /Items?$select=ItemCode&$filter=U_IdMenuLink eq 'A17' 
+Resultado Transaccion: Fallido  
+Request:  
+Tipo objeto: 4
+Request:  
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:05:40.2878|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-08 16:05:40.2878|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:05:40.3006|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-08 16:05:40.3006|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:05:40.6721|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /Items?$select=ItemCode&$filter=U_IdMenuLink eq 'A17' 
+Resultado Transaccion: Fallido  
+Request:  
+Tipo objeto: 4
+Request:  
+ 
+2025-05-08 16:05:40.6721|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /Items?$select=ItemCode&$filter=U_IdMenuLink eq 'A17' 
+Resultado Transaccion: Fallido  
+Request:  
+Tipo objeto: 4
+Request:  
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:05:40.6721|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-08 16:05:40.6721|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:05:40.8593|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-08 16:05:40.8593|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:05:41.2064|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /Items?$select=ItemCode&$filter=U_IdMenuLink eq 'A17' 
+Resultado Transaccion: Fallido  
+Request:  
+Tipo objeto: 4
+Request:  
+ 
+2025-05-08 16:05:41.2064|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /Items?$select=ItemCode&$filter=U_IdMenuLink eq 'A17' 
+Resultado Transaccion: Fallido  
+Request:  
+Tipo objeto: 4
+Request:  
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:05:41.2064|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-08 16:05:41.2064|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:05:41.3764|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-08 16:05:41.3764|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:05:41.7487|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /Items?$select=ItemCode&$filter=U_IdMenuLink eq 'A17' 
+Resultado Transaccion: Fallido  
+Request:  
+Tipo objeto: 4
+Request:  
+ 
+2025-05-08 16:05:41.7487|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /Items?$select=ItemCode&$filter=U_IdMenuLink eq 'A17' 
+Resultado Transaccion: Fallido  
+Request:  
+Tipo objeto: 4
+Request:  
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:05:41.7529|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-08 16:05:41.7529|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:05:42.2330|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-08 16:05:42.2330|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:05:42.6214|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: ShoppingCenter.WebServices.Base.Utilidades.ErrorGlobal: No se encontro el el itemCode para el U_IdMenuLink 'A17'
+   at ShoppingCenter.WebServices.Base.Servicios.Articulos.getItemCode(String idMenuLink, String documentoQueLlama) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Articulos.cs:line 218
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.detalleFacturasNoEnviadas(String idFactura, Document invoice) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 41
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 100
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 132 
+Tipo objeto: 2
+Request: ShoppingCenter.WebServices.Base.Utilidades.ErrorGlobal: No se encontro el el itemCode para el U_IdMenuLink 'A17'
+   at ShoppingCenter.WebServices.Base.Servicios.Articulos.getItemCode(String idMenuLink, String documentoQueLlama) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Articulos.cs:line 218
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.detalleFacturasNoEnviadas(String idFactura, Document invoice) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 41
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 100
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 132 
+ 
+2025-05-08 16:05:42.6214|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: ShoppingCenter.WebServices.Base.Utilidades.ErrorGlobal: No se encontro el el itemCode para el U_IdMenuLink 'A17'
+   at ShoppingCenter.WebServices.Base.Servicios.Articulos.getItemCode(String idMenuLink, String documentoQueLlama) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Articulos.cs:line 218
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.detalleFacturasNoEnviadas(String idFactura, Document invoice) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 41
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 100
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 132 
+Tipo objeto: 2
+Request: ShoppingCenter.WebServices.Base.Utilidades.ErrorGlobal: No se encontro el el itemCode para el U_IdMenuLink 'A17'
+   at ShoppingCenter.WebServices.Base.Servicios.Articulos.getItemCode(String idMenuLink, String documentoQueLlama) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Articulos.cs:line 218
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.detalleFacturasNoEnviadas(String idFactura, Document invoice) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 41
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 100
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 132 
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:05:42.6262|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-08 16:05:42.6262|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:05:42.7792|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 157980.6475ms. 
+2025-05-08 16:05:42.8095|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.String'. 
+2025-05-08 16:05:42.8319|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) in 158078.031ms 
+2025-05-08 16:05:42.8463|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 159259.9427ms 200 text/plain; charset=utf-8 
+2025-05-08 16:07:31.4381|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:50246/IGT/Servicio/ServiceTimer   
+2025-05-08 16:07:31.4961|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "ServiceTimer", controller = "Servicio"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] serviceTimer() on controller ShoppingCenter.WebServices.Base.Controllers.ServicioController (WebServicesShoppingCenter). 
+2025-05-08 16:07:31.5233|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) - Validation state: Valid 
+2025-05-08 16:10:46.8620|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-08 16:10:46.8620|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:10:47.1043|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /Items?$select=ItemCode&$filter=U_IdMenuLink eq 'A17' 
+Resultado Transaccion: Fallido  
+Request:  
+Tipo objeto: 4
+Request:  
+ 
+2025-05-08 16:10:47.1043|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /Items?$select=ItemCode&$filter=U_IdMenuLink eq 'A17' 
+Resultado Transaccion: Fallido  
+Request:  
+Tipo objeto: 4
+Request:  
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:10:47.1087|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-08 16:10:47.1087|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:10:47.1087|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-08 16:10:47.1087|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:10:47.4810|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /Items?$select=ItemCode&$filter=U_IdMenuLink eq 'A17' 
+Resultado Transaccion: Fallido  
+Request:  
+Tipo objeto: 4
+Request:  
+ 
+2025-05-08 16:10:47.4810|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /Items?$select=ItemCode&$filter=U_IdMenuLink eq 'A17' 
+Resultado Transaccion: Fallido  
+Request:  
+Tipo objeto: 4
+Request:  
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:10:47.4810|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-08 16:10:47.4810|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:10:47.6899|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-08 16:10:47.6899|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:10:48.0792|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /Items?$select=ItemCode&$filter=U_IdMenuLink eq 'A17' 
+Resultado Transaccion: Fallido  
+Request:  
+Tipo objeto: 4
+Request:  
+ 
+2025-05-08 16:10:48.0792|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /Items?$select=ItemCode&$filter=U_IdMenuLink eq 'A17' 
+Resultado Transaccion: Fallido  
+Request:  
+Tipo objeto: 4
+Request:  
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:10:48.0792|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-08 16:10:48.0792|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:10:48.2550|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-08 16:10:48.2550|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:10:48.6394|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /Items?$select=ItemCode&$filter=U_IdMenuLink eq 'A17' 
+Resultado Transaccion: Fallido  
+Request:  
+Tipo objeto: 4
+Request:  
+ 
+2025-05-08 16:10:48.6394|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /Items?$select=ItemCode&$filter=U_IdMenuLink eq 'A17' 
+Resultado Transaccion: Fallido  
+Request:  
+Tipo objeto: 4
+Request:  
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:10:48.6394|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-08 16:10:48.6394|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:10:49.0156|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-08 16:10:49.0156|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:10:49.4224|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: ShoppingCenter.WebServices.Base.Utilidades.ErrorGlobal: No se encontro el el itemCode para el U_IdMenuLink 'A17'
+   at ShoppingCenter.WebServices.Base.Servicios.Articulos.getItemCode(String idMenuLink, String documentoQueLlama) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Articulos.cs:line 218
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.detalleFacturasNoEnviadas(String idFactura, Document invoice) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 41
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 100
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 132 
+Tipo objeto: 2
+Request: ShoppingCenter.WebServices.Base.Utilidades.ErrorGlobal: No se encontro el el itemCode para el U_IdMenuLink 'A17'
+   at ShoppingCenter.WebServices.Base.Servicios.Articulos.getItemCode(String idMenuLink, String documentoQueLlama) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Articulos.cs:line 218
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.detalleFacturasNoEnviadas(String idFactura, Document invoice) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 41
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 100
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 132 
+ 
+2025-05-08 16:10:49.4224|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: ShoppingCenter.WebServices.Base.Utilidades.ErrorGlobal: No se encontro el el itemCode para el U_IdMenuLink 'A17'
+   at ShoppingCenter.WebServices.Base.Servicios.Articulos.getItemCode(String idMenuLink, String documentoQueLlama) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Articulos.cs:line 218
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.detalleFacturasNoEnviadas(String idFactura, Document invoice) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 41
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 100
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 132 
+Tipo objeto: 2
+Request: ShoppingCenter.WebServices.Base.Utilidades.ErrorGlobal: No se encontro el el itemCode para el U_IdMenuLink 'A17'
+   at ShoppingCenter.WebServices.Base.Servicios.Articulos.getItemCode(String idMenuLink, String documentoQueLlama) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Articulos.cs:line 218
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.detalleFacturasNoEnviadas(String idFactura, Document invoice) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 41
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 100
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 132 
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:10:49.4224|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-08 16:10:49.4224|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:10:56.9373|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 205417.3497ms. 
+2025-05-08 16:10:56.9373|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.String'. 
+2025-05-08 16:10:56.9373|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) in 205456.156ms 
+2025-05-08 16:10:56.9373|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 205520.1246ms 200 text/plain; charset=utf-8 
+2025-05-08 16:11:13.5219|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:50246/IGT/Servicio/ServiceTimer   
+2025-05-08 16:11:13.5287|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "ServiceTimer", controller = "Servicio"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] serviceTimer() on controller ShoppingCenter.WebServices.Base.Controllers.ServicioController (WebServicesShoppingCenter). 
+2025-05-08 16:11:13.5287|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) - Validation state: Valid 
+2025-05-08 16:12:45.5571|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-08 16:12:45.5571|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:12:45.8174|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /Items?$select=ItemCode&$filter=U_IdMenuLink eq 'A17' 
+Resultado Transaccion: Fallido  
+Request:  
+Tipo objeto: 4
+Request:  
+ 
+2025-05-08 16:12:45.8174|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /Items?$select=ItemCode&$filter=U_IdMenuLink eq 'A17' 
+Resultado Transaccion: Fallido  
+Request:  
+Tipo objeto: 4
+Request:  
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:12:45.8235|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-08 16:12:45.8235|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:12:53.4193|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-08 16:12:53.4193|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:12:53.7919|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /Items?$select=ItemCode&$filter=U_IdMenuLink eq 'A17' 
+Resultado Transaccion: Fallido  
+Request:  
+Tipo objeto: 4
+Request:  
+ 
+2025-05-08 16:12:53.7919|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /Items?$select=ItemCode&$filter=U_IdMenuLink eq 'A17' 
+Resultado Transaccion: Fallido  
+Request:  
+Tipo objeto: 4
+Request:  
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:12:53.7919|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-08 16:12:53.7919|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:12:53.9862|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-08 16:12:53.9862|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:12:54.3842|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /Items?$select=ItemCode&$filter=U_IdMenuLink eq 'A17' 
+Resultado Transaccion: Fallido  
+Request:  
+Tipo objeto: 4
+Request:  
+ 
+2025-05-08 16:12:54.3842|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /Items?$select=ItemCode&$filter=U_IdMenuLink eq 'A17' 
+Resultado Transaccion: Fallido  
+Request:  
+Tipo objeto: 4
+Request:  
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:12:54.3842|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-08 16:12:54.3842|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:12:54.5695|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-08 16:12:54.5695|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:12:54.9416|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /Items?$select=ItemCode&$filter=U_IdMenuLink eq 'A17' 
+Resultado Transaccion: Fallido  
+Request:  
+Tipo objeto: 4
+Request:  
+ 
+2025-05-08 16:12:54.9416|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /Items?$select=ItemCode&$filter=U_IdMenuLink eq 'A17' 
+Resultado Transaccion: Fallido  
+Request:  
+Tipo objeto: 4
+Request:  
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:12:54.9457|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-08 16:12:54.9457|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:12:55.3210|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-08 16:12:55.3210|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:12:55.7316|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: ShoppingCenter.WebServices.Base.Utilidades.ErrorGlobal: No se encontro el el itemCode para el U_IdMenuLink 'A17'
+   at ShoppingCenter.WebServices.Base.Servicios.Articulos.getItemCode(String idMenuLink, String documentoQueLlama) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Articulos.cs:line 218
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.detalleFacturasNoEnviadas(String idFactura, Document invoice) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 41
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 100
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 132 
+Tipo objeto: 2
+Request: ShoppingCenter.WebServices.Base.Utilidades.ErrorGlobal: No se encontro el el itemCode para el U_IdMenuLink 'A17'
+   at ShoppingCenter.WebServices.Base.Servicios.Articulos.getItemCode(String idMenuLink, String documentoQueLlama) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Articulos.cs:line 218
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.detalleFacturasNoEnviadas(String idFactura, Document invoice) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 41
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 100
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 132 
+ 
+2025-05-08 16:12:55.7316|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: ShoppingCenter.WebServices.Base.Utilidades.ErrorGlobal: No se encontro el el itemCode para el U_IdMenuLink 'A17'
+   at ShoppingCenter.WebServices.Base.Servicios.Articulos.getItemCode(String idMenuLink, String documentoQueLlama) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Articulos.cs:line 218
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.detalleFacturasNoEnviadas(String idFactura, Document invoice) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 41
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 100
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 132 
+Tipo objeto: 2
+Request: ShoppingCenter.WebServices.Base.Utilidades.ErrorGlobal: No se encontro el el itemCode para el U_IdMenuLink 'A17'
+   at ShoppingCenter.WebServices.Base.Servicios.Articulos.getItemCode(String idMenuLink, String documentoQueLlama) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Articulos.cs:line 218
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.detalleFacturasNoEnviadas(String idFactura, Document invoice) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 41
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 100
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 132 
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:12:55.7316|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-08 16:12:55.7316|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-08 16:12:55.9518|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 102416.8007ms. 
+2025-05-08 16:12:55.9518|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.String'. 
+2025-05-08 16:12:55.9518|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) in 102422.6278ms 
+2025-05-08 16:12:55.9518|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 102440.5022ms 200 text/plain; charset=utf-8 
+2025-05-08 16:13:11.8286|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:50246/IGT/Servicio/ServiceTimer   
+2025-05-08 16:13:11.8474|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "ServiceTimer", controller = "Servicio"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] serviceTimer() on controller ShoppingCenter.WebServices.Base.Controllers.ServicioController (WebServicesShoppingCenter). 
+2025-05-08 16:13:11.8501|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) - Validation state: Valid 

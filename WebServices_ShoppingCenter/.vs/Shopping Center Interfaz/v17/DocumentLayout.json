@@ -1,0 +1,282 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Consultor\\Desktop\\Ricardo Solares\\Proyectos\\Shopping Center\\Base WS\\Base WS\\WebServices_ShoppingCenter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9B62CB-ADD5-4ACB-AF16-1BF2E141BDEF}|WebApi2\\Shopping Center Interfaz.csproj|c:\\users\\consultor\\desktop\\ricardo solares\\proyectos\\shopping center\\base ws\\base ws\\webservices_shoppingcenter\\webapi2\\servicios\\articulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9B62CB-ADD5-4ACB-AF16-1BF2E141BDEF}|WebApi2\\Shopping Center Interfaz.csproj|solutionrelative:webapi2\\servicios\\articulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9B62CB-ADD5-4ACB-AF16-1BF2E141BDEF}|WebApi2\\Shopping Center Interfaz.csproj|c:\\users\\consultor\\desktop\\ricardo solares\\proyectos\\shopping center\\base ws\\base ws\\webservices_shoppingcenter\\webapi2\\models\\t_articulomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9B62CB-ADD5-4ACB-AF16-1BF2E141BDEF}|WebApi2\\Shopping Center Interfaz.csproj|solutionrelative:webapi2\\models\\t_articulomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9B62CB-ADD5-4ACB-AF16-1BF2E141BDEF}|WebApi2\\Shopping Center Interfaz.csproj|c:\\users\\consultor\\desktop\\ricardo solares\\proyectos\\shopping center\\base ws\\base ws\\webservices_shoppingcenter\\webapi2\\models\\parametrosgeneralesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9B62CB-ADD5-4ACB-AF16-1BF2E141BDEF}|WebApi2\\Shopping Center Interfaz.csproj|solutionrelative:webapi2\\models\\parametrosgeneralesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9B62CB-ADD5-4ACB-AF16-1BF2E141BDEF}|WebApi2\\Shopping Center Interfaz.csproj|c:\\users\\consultor\\desktop\\ricardo solares\\proyectos\\shopping center\\base ws\\base ws\\webservices_shoppingcenter\\webapi2\\models\\parametrosenviomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9B62CB-ADD5-4ACB-AF16-1BF2E141BDEF}|WebApi2\\Shopping Center Interfaz.csproj|solutionrelative:webapi2\\models\\parametrosenviomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9B62CB-ADD5-4ACB-AF16-1BF2E141BDEF}|WebApi2\\Shopping Center Interfaz.csproj|c:\\users\\consultor\\desktop\\ricardo solares\\proyectos\\shopping center\\base ws\\base ws\\webservices_shoppingcenter\\webapi2\\shopping center interfaz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1E9B62CB-ADD5-4ACB-AF16-1BF2E141BDEF}|WebApi2\\Shopping Center Interfaz.csproj|solutionrelative:webapi2\\shopping center interfaz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9B62CB-ADD5-4ACB-AF16-1BF2E141BDEF}|WebApi2\\Shopping Center Interfaz.csproj|c:\\users\\consultor\\desktop\\ricardo solares\\proyectos\\shopping center\\base ws\\base ws\\webservices_shoppingcenter\\webapi2\\utilidades\\uconsola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9B62CB-ADD5-4ACB-AF16-1BF2E141BDEF}|WebApi2\\Shopping Center Interfaz.csproj|solutionrelative:webapi2\\utilidades\\uconsola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Consultor\\Desktop\\Shopping Center\\Base WS\\Igt.WebServices.Base\\WebApi2\\Models\\LoginModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Consultor\\Desktop\\Shopping Center\\Base WS\\Igt.WebServices.Base\\WebApi2\\Models\\LogWSModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Consultor\\Desktop\\Shopping Center\\Base WS\\Igt.WebServices.Base\\WebApi2\\Models\\ParametroDBModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9B62CB-ADD5-4ACB-AF16-1BF2E141BDEF}|WebApi2\\Shopping Center Interfaz.csproj|c:\\users\\consultor\\desktop\\ricardo solares\\proyectos\\shopping center\\base ws\\base ws\\webservices_shoppingcenter\\webapi2\\shopping center interfaz.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1E9B62CB-ADD5-4ACB-AF16-1BF2E141BDEF}|WebApi2\\Shopping Center Interfaz.csproj|solutionrelative:webapi2\\shopping center interfaz.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9B62CB-ADD5-4ACB-AF16-1BF2E141BDEF}|WebApi2\\Shopping Center Interfaz.csproj|c:\\users\\consultor\\desktop\\ricardo solares\\proyectos\\shopping center\\base ws\\base ws\\webservices_shoppingcenter\\webapi2\\models\\parametrodbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9B62CB-ADD5-4ACB-AF16-1BF2E141BDEF}|WebApi2\\Shopping Center Interfaz.csproj|solutionrelative:webapi2\\models\\parametrodbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9B62CB-ADD5-4ACB-AF16-1BF2E141BDEF}|WebApi2\\Shopping Center Interfaz.csproj|c:\\users\\consultor\\desktop\\ricardo solares\\proyectos\\shopping center\\base ws\\base ws\\webservices_shoppingcenter\\webapi2\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9B62CB-ADD5-4ACB-AF16-1BF2E141BDEF}|WebApi2\\Shopping Center Interfaz.csproj|solutionrelative:webapi2\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9B62CB-ADD5-4ACB-AF16-1BF2E141BDEF}|WebApi2\\Shopping Center Interfaz.csproj|c:\\users\\consultor\\desktop\\ricardo solares\\proyectos\\shopping center\\base ws\\base ws\\webservices_shoppingcenter\\webapi2\\models\\bitacoramodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9B62CB-ADD5-4ACB-AF16-1BF2E141BDEF}|WebApi2\\Shopping Center Interfaz.csproj|solutionrelative:webapi2\\models\\bitacoramodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Consultor\\Desktop\\Shopping Center\\Base WS\\Igt.WebServices.Base\\WebApi2\\Models\\ConfiguracionDBModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Consultor\\Desktop\\Shopping Center\\Base WS\\Igt.WebServices.Base\\WebApi2\\Servicios\\Servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Consultor\\Desktop\\Shopping Center\\Base WS\\Igt.WebServices.Base\\WebApi2\\Servicios\\TrasladoMateriaConfirmacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Consultor\\Desktop\\Shopping Center\\Base WS\\WebServices_ShoppingCenter\\WebApi2\\Servicios\\Bodegas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "T_ArticuloModel.cs",
+              "DocumentMoniker": "C:\\Users\\Consultor\\Desktop\\Ricardo Solares\\Proyectos\\Shopping Center\\Base WS\\Base WS\\WebServices_ShoppingCenter\\WebApi2\\Models\\T_ArticuloModel.cs",
+              "RelativeDocumentMoniker": "WebApi2\\Models\\T_ArticuloModel.cs",
+              "ToolTip": "C:\\Users\\Consultor\\Desktop\\Ricardo Solares\\Proyectos\\Shopping Center\\Base WS\\Base WS\\WebServices_ShoppingCenter\\WebApi2\\Models\\T_ArticuloModel.cs",
+              "RelativeToolTip": "WebApi2\\Models\\T_ArticuloModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwBEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:10:28.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ParametrosGeneralesModel.cs",
+              "DocumentMoniker": "C:\\Users\\Consultor\\Desktop\\Ricardo Solares\\Proyectos\\Shopping Center\\Base WS\\Base WS\\WebServices_ShoppingCenter\\WebApi2\\Models\\ParametrosGeneralesModel.cs",
+              "RelativeDocumentMoniker": "WebApi2\\Models\\ParametrosGeneralesModel.cs",
+              "ToolTip": "C:\\Users\\Consultor\\Desktop\\Ricardo Solares\\Proyectos\\Shopping Center\\Base WS\\Base WS\\WebServices_ShoppingCenter\\WebApi2\\Models\\ParametrosGeneralesModel.cs",
+              "RelativeToolTip": "WebApi2\\Models\\ParametrosGeneralesModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:09:07.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UConsola.cs",
+              "DocumentMoniker": "C:\\Users\\Consultor\\Desktop\\Ricardo Solares\\Proyectos\\Shopping Center\\Base WS\\Base WS\\WebServices_ShoppingCenter\\WebApi2\\Utilidades\\UConsola.cs",
+              "RelativeDocumentMoniker": "WebApi2\\Utilidades\\UConsola.cs",
+              "ToolTip": "C:\\Users\\Consultor\\Desktop\\Ricardo Solares\\Proyectos\\Shopping Center\\Base WS\\Base WS\\WebServices_ShoppingCenter\\WebApi2\\Utilidades\\UConsola.cs",
+              "RelativeToolTip": "WebApi2\\Utilidades\\UConsola.cs",
+              "ViewState": "AgIAAJIBAAAAAAAAAAAIwJsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:01:38.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shopping Center Interfaz.csproj",
+              "DocumentMoniker": "C:\\Users\\Consultor\\Desktop\\Ricardo Solares\\Proyectos\\Shopping Center\\Base WS\\Base WS\\WebServices_ShoppingCenter\\WebApi2\\Shopping Center Interfaz.csproj",
+              "RelativeDocumentMoniker": "WebApi2\\Shopping Center Interfaz.csproj",
+              "ToolTip": "C:\\Users\\Consultor\\Desktop\\Ricardo Solares\\Proyectos\\Shopping Center\\Base WS\\Base WS\\WebServices_ShoppingCenter\\WebApi2\\Shopping Center Interfaz.csproj",
+              "RelativeToolTip": "WebApi2\\Shopping Center Interfaz.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-09T16:59:18.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Bodegas.cs",
+              "DocumentMoniker": "C:\\Users\\Consultor\\Desktop\\Shopping Center\\Base WS\\WebServices_ShoppingCenter\\WebApi2\\Servicios\\Bodegas.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Shopping Center\\Base WS\\WebServices_ShoppingCenter\\WebApi2\\Servicios\\Bodegas.cs",
+              "ToolTip": "C:\\Users\\Consultor\\Desktop\\Shopping Center\\Base WS\\WebServices_ShoppingCenter\\WebApi2\\Servicios\\Bodegas.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Shopping Center\\Base WS\\WebServices_ShoppingCenter\\WebApi2\\Servicios\\Bodegas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:59:07.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BitacoraModel.cs",
+              "DocumentMoniker": "C:\\Users\\Consultor\\Desktop\\Ricardo Solares\\Proyectos\\Shopping Center\\Base WS\\Base WS\\WebServices_ShoppingCenter\\WebApi2\\Models\\BitacoraModel.cs",
+              "RelativeDocumentMoniker": "WebApi2\\Models\\BitacoraModel.cs",
+              "ToolTip": "C:\\Users\\Consultor\\Desktop\\Ricardo Solares\\Proyectos\\Shopping Center\\Base WS\\Base WS\\WebServices_ShoppingCenter\\WebApi2\\Models\\BitacoraModel.cs",
+              "RelativeToolTip": "WebApi2\\Models\\BitacoraModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:59:06.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Articulos.cs",
+              "DocumentMoniker": "C:\\Users\\Consultor\\Desktop\\Ricardo Solares\\Proyectos\\Shopping Center\\Base WS\\Base WS\\WebServices_ShoppingCenter\\WebApi2\\Servicios\\Articulos.cs",
+              "RelativeDocumentMoniker": "WebApi2\\Servicios\\Articulos.cs",
+              "ToolTip": "C:\\Users\\Consultor\\Desktop\\Ricardo Solares\\Proyectos\\Shopping Center\\Base WS\\Base WS\\WebServices_ShoppingCenter\\WebApi2\\Servicios\\Articulos.cs",
+              "RelativeToolTip": "WebApi2\\Servicios\\Articulos.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAIwF0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:59:04.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Consultor\\Desktop\\Ricardo Solares\\Proyectos\\Shopping Center\\Base WS\\Base WS\\WebServices_ShoppingCenter\\WebApi2\\Startup.cs",
+              "RelativeDocumentMoniker": "WebApi2\\Startup.cs",
+              "ToolTip": "C:\\Users\\Consultor\\Desktop\\Ricardo Solares\\Proyectos\\Shopping Center\\Base WS\\Base WS\\WebServices_ShoppingCenter\\WebApi2\\Startup.cs",
+              "RelativeToolTip": "WebApi2\\Startup.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:58:27.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ParametrosEnvioModel.cs",
+              "DocumentMoniker": "C:\\Users\\Consultor\\Desktop\\Ricardo Solares\\Proyectos\\Shopping Center\\Base WS\\Base WS\\WebServices_ShoppingCenter\\WebApi2\\Models\\ParametrosEnvioModel.cs",
+              "RelativeDocumentMoniker": "WebApi2\\Models\\ParametrosEnvioModel.cs",
+              "ToolTip": "C:\\Users\\Consultor\\Desktop\\Ricardo Solares\\Proyectos\\Shopping Center\\Base WS\\Base WS\\WebServices_ShoppingCenter\\WebApi2\\Models\\ParametrosEnvioModel.cs",
+              "RelativeToolTip": "WebApi2\\Models\\ParametrosEnvioModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:56:53.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ParametroDBModel.cs",
+              "DocumentMoniker": "C:\\Users\\Consultor\\Desktop\\Ricardo Solares\\Proyectos\\Shopping Center\\Base WS\\Base WS\\WebServices_ShoppingCenter\\WebApi2\\Models\\ParametroDBModel.cs",
+              "RelativeDocumentMoniker": "WebApi2\\Models\\ParametroDBModel.cs",
+              "ToolTip": "C:\\Users\\Consultor\\Desktop\\Ricardo Solares\\Proyectos\\Shopping Center\\Base WS\\Base WS\\WebServices_ShoppingCenter\\WebApi2\\Models\\ParametroDBModel.cs",
+              "RelativeToolTip": "WebApi2\\Models\\ParametroDBModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:54:21.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Shopping Center Interfaz",
+              "DocumentMoniker": "C:\\Users\\Consultor\\Desktop\\Ricardo Solares\\Proyectos\\Shopping Center\\Base WS\\Base WS\\WebServices_ShoppingCenter\\WebApi2\\Shopping Center Interfaz.csproj",
+              "RelativeDocumentMoniker": "WebApi2\\Shopping Center Interfaz.csproj",
+              "ToolTip": "C:\\Users\\Consultor\\Desktop\\Ricardo Solares\\Proyectos\\Shopping Center\\Base WS\\Base WS\\WebServices_ShoppingCenter\\WebApi2\\Shopping Center Interfaz.csproj",
+              "RelativeToolTip": "WebApi2\\Shopping Center Interfaz.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-09T16:52:55.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ParametroDBModel.cs",
+              "DocumentMoniker": "C:\\Users\\Consultor\\Desktop\\Shopping Center\\Base WS\\Igt.WebServices.Base\\WebApi2\\Models\\ParametroDBModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Shopping Center\\Base WS\\Igt.WebServices.Base\\WebApi2\\Models\\ParametroDBModel.cs",
+              "ToolTip": "C:\\Users\\Consultor\\Desktop\\Shopping Center\\Base WS\\Igt.WebServices.Base\\WebApi2\\Models\\ParametroDBModel.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Shopping Center\\Base WS\\Igt.WebServices.Base\\WebApi2\\Models\\ParametroDBModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:24:56.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LogWSModel.cs",
+              "DocumentMoniker": "C:\\Users\\Consultor\\Desktop\\Shopping Center\\Base WS\\Igt.WebServices.Base\\WebApi2\\Models\\LogWSModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Shopping Center\\Base WS\\Igt.WebServices.Base\\WebApi2\\Models\\LogWSModel.cs",
+              "ToolTip": "C:\\Users\\Consultor\\Desktop\\Shopping Center\\Base WS\\Igt.WebServices.Base\\WebApi2\\Models\\LogWSModel.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Shopping Center\\Base WS\\Igt.WebServices.Base\\WebApi2\\Models\\LogWSModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:24:52.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Consultor\\Desktop\\Shopping Center\\Base WS\\Igt.WebServices.Base\\WebApi2\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Shopping Center\\Base WS\\Igt.WebServices.Base\\WebApi2\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\Consultor\\Desktop\\Shopping Center\\Base WS\\Igt.WebServices.Base\\WebApi2\\Models\\LoginModel.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Shopping Center\\Base WS\\Igt.WebServices.Base\\WebApi2\\Models\\LoginModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:24:49.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ConfiguracionDBModel.cs",
+              "DocumentMoniker": "C:\\Users\\Consultor\\Desktop\\Shopping Center\\Base WS\\Igt.WebServices.Base\\WebApi2\\Models\\ConfiguracionDBModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Shopping Center\\Base WS\\Igt.WebServices.Base\\WebApi2\\Models\\ConfiguracionDBModel.cs",
+              "ToolTip": "C:\\Users\\Consultor\\Desktop\\Shopping Center\\Base WS\\Igt.WebServices.Base\\WebApi2\\Models\\ConfiguracionDBModel.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Shopping Center\\Base WS\\Igt.WebServices.Base\\WebApi2\\Models\\ConfiguracionDBModel.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:24:43.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Servicio.cs",
+              "DocumentMoniker": "C:\\Users\\Consultor\\Desktop\\Shopping Center\\Base WS\\Igt.WebServices.Base\\WebApi2\\Servicios\\Servicio.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Shopping Center\\Base WS\\Igt.WebServices.Base\\WebApi2\\Servicios\\Servicio.cs",
+              "ToolTip": "C:\\Users\\Consultor\\Desktop\\Shopping Center\\Base WS\\Igt.WebServices.Base\\WebApi2\\Servicios\\Servicio.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Shopping Center\\Base WS\\Igt.WebServices.Base\\WebApi2\\Servicios\\Servicio.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAUwI0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:18:50.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TrasladoMateriaConfirmacion.cs",
+              "DocumentMoniker": "C:\\Users\\Consultor\\Desktop\\Shopping Center\\Base WS\\Igt.WebServices.Base\\WebApi2\\Servicios\\TrasladoMateriaConfirmacion.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Shopping Center\\Base WS\\Igt.WebServices.Base\\WebApi2\\Servicios\\TrasladoMateriaConfirmacion.cs",
+              "ToolTip": "C:\\Users\\Consultor\\Desktop\\Shopping Center\\Base WS\\Igt.WebServices.Base\\WebApi2\\Servicios\\TrasladoMateriaConfirmacion.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Shopping Center\\Base WS\\Igt.WebServices.Base\\WebApi2\\Servicios\\TrasladoMateriaConfirmacion.cs",
+              "ViewState": "AgIAABYBAAAAAAAAAAArwDABAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:18:50.653Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

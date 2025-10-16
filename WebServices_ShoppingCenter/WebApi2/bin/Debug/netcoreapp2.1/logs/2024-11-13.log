@@ -1,0 +1,102 @@
+2024-11-13 13:01:58.2569|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'D:\Users\oliver.solorzano.INTEGRAGT\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2024-11-13 13:02:01.7543|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:50245/  0 
+2024-11-13 13:02:02.0071|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 253.8749ms 200  
+2024-11-13 13:02:39.9057|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 POST http://localhost:50245/IGT/Consola/GuardarSap application/json 168 
+2024-11-13 13:02:43.0302|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "GuardarSap", controller = "Consola"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] PostSap(Igt.WebServices.Base.Models.ConfiguracionDBModel) on controller Igt.WebServices.Base.Controllers.ConsolaController (WebServicesLaiLai). 
+2024-11-13 13:02:43.3839|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method Igt.WebServices.Base.Controllers.ConsolaController.PostSap (WebServicesLaiLai) - Validation state: Valid 
+2024-11-13 13:02:51.1863|INFO|Igt.WebServices.Base.Log|*************** Iniciando Método GuardarSap *************** 
+2024-11-13 13:02:51.1863|INFO|Igt.WebServices.Base.Log|*************** Iniciando Método GuardarSap *************** |url: http://localhost/IGT/Consola/GuardarSap|action: GuardarSap
+2024-11-13 13:03:18.0927|INFO|Igt.WebServices.Base.Log|*************** Finalizando Método GuardarSap *************** 
+2024-11-13 13:03:18.0927|INFO|Igt.WebServices.Base.Log|*************** Finalizando Método GuardarSap *************** |url: http://localhost/IGT/Consola/GuardarSap|action: GuardarSap
+2024-11-13 13:03:18.1948|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method Igt.WebServices.Base.Controllers.ConsolaController.PostSap (WebServicesLaiLai), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 34761.4285ms. 
+2024-11-13 13:03:18.2198|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.String'. 
+2024-11-13 13:03:18.2396|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action Igt.WebServices.Base.Controllers.ConsolaController.PostSap (WebServicesLaiLai) in 35202.4153ms 
+2024-11-13 13:03:18.2518|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 38347.8722ms 200 text/plain; charset=utf-8 
+2024-11-13 14:05:34.4975|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 POST http://localhost:50245/IGT/Consola/GuardarSap application/json 168 
+2024-11-13 14:05:34.5560|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "GuardarSap", controller = "Consola"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] PostSap(Igt.WebServices.Base.Models.ConfiguracionDBModel) on controller Igt.WebServices.Base.Controllers.ConsolaController (WebServicesLaiLai). 
+2024-11-13 14:05:34.5560|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method Igt.WebServices.Base.Controllers.ConsolaController.PostSap (WebServicesLaiLai) - Validation state: Valid 
+2024-11-13 14:05:42.0645|INFO|Igt.WebServices.Base.Log|*************** Iniciando Método GuardarSap *************** 
+2024-11-13 14:05:42.0645|INFO|Igt.WebServices.Base.Log|*************** Iniciando Método GuardarSap *************** |url: http://localhost/IGT/Consola/GuardarSap|action: GuardarSap
+2024-11-13 14:09:23.1493|INFO|Igt.WebServices.Base.Log|*************** Finalizando Método GuardarSap *************** 
+2024-11-13 14:09:23.1493|INFO|Igt.WebServices.Base.Log|*************** Finalizando Método GuardarSap *************** |url: http://localhost/IGT/Consola/GuardarSap|action: GuardarSap
+2024-11-13 14:09:23.1798|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method Igt.WebServices.Base.Controllers.ConsolaController.PostSap (WebServicesLaiLai), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 228620.8592ms. 
+2024-11-13 14:09:23.1798|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.String'. 
+2024-11-13 14:09:23.1890|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action Igt.WebServices.Base.Controllers.ConsolaController.PostSap (WebServicesLaiLai) in 228641.1549ms 
+2024-11-13 14:09:23.1890|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 228704.1525ms 200 text/plain; charset=utf-8 
+2024-11-13 14:09:48.2889|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 POST http://localhost:50245/IGT/Consola/GuardarSap application/json 168 
+2024-11-13 14:09:48.3018|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "GuardarSap", controller = "Consola"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] PostSap(Igt.WebServices.Base.Models.ConfiguracionDBModel) on controller Igt.WebServices.Base.Controllers.ConsolaController (WebServicesLaiLai). 
+2024-11-13 14:09:48.3468|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method Igt.WebServices.Base.Controllers.ConsolaController.PostSap (WebServicesLaiLai) - Validation state: Valid 
+2024-11-13 14:09:54.3139|INFO|Igt.WebServices.Base.Log|*************** Iniciando Método GuardarSap *************** 
+2024-11-13 14:09:54.3139|INFO|Igt.WebServices.Base.Log|*************** Iniciando Método GuardarSap *************** |url: http://localhost/IGT/Consola/GuardarSap|action: GuardarSap
+2024-11-13 14:10:53.2684|INFO|Igt.WebServices.Base.Log|*************** Finalizando Método GuardarSap *************** 
+2024-11-13 14:10:53.2684|INFO|Igt.WebServices.Base.Log|*************** Finalizando Método GuardarSap *************** |url: http://localhost/IGT/Consola/GuardarSap|action: GuardarSap
+2024-11-13 14:10:53.2684|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method Igt.WebServices.Base.Controllers.ConsolaController.PostSap (WebServicesLaiLai), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 64924.7913ms. 
+2024-11-13 14:10:53.2684|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.String'. 
+2024-11-13 14:10:53.2915|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action Igt.WebServices.Base.Controllers.ConsolaController.PostSap (WebServicesLaiLai) in 64964.259ms 
+2024-11-13 14:10:53.2930|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 65006.8764ms 200 text/plain; charset=utf-8 
+2024-11-13 14:11:06.9026|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 POST http://localhost:50245/IGT/Consola/GuardarSap application/json 168 
+2024-11-13 14:11:06.9026|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "GuardarSap", controller = "Consola"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] PostSap(Igt.WebServices.Base.Models.ConfiguracionDBModel) on controller Igt.WebServices.Base.Controllers.ConsolaController (WebServicesLaiLai). 
+2024-11-13 14:11:06.9026|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method Igt.WebServices.Base.Controllers.ConsolaController.PostSap (WebServicesLaiLai) - Validation state: Valid 
+2024-11-13 14:11:06.9026|INFO|Igt.WebServices.Base.Log|*************** Iniciando Método GuardarSap *************** 
+2024-11-13 14:11:06.9026|INFO|Igt.WebServices.Base.Log|*************** Iniciando Método GuardarSap *************** |url: http://localhost/IGT/Consola/GuardarSap|action: GuardarSap
+2024-11-13 14:14:24.0097|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'D:\Users\oliver.solorzano.INTEGRAGT\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2024-11-13 14:14:28.1881|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:50245/  0 
+2024-11-13 14:14:28.5262|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 334.188ms 200  
+2024-11-13 14:15:19.0373|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 POST http://localhost:50245/IGT/Consola/GuardarSap application/json 168 
+2024-11-13 14:15:20.7488|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "GuardarSap", controller = "Consola"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] PostSap(Igt.WebServices.Base.Models.ConfiguracionDBModel) on controller Igt.WebServices.Base.Controllers.ConsolaController (WebServicesLaiLai). 
+2024-11-13 14:15:21.1874|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method Igt.WebServices.Base.Controllers.ConsolaController.PostSap (WebServicesLaiLai) - Validation state: Valid 
+2024-11-13 14:15:21.1947|INFO|Igt.WebServices.Base.Log|*************** Iniciando Método GuardarSap *************** 
+2024-11-13 14:15:21.1947|INFO|Igt.WebServices.Base.Log|*************** Iniciando Método GuardarSap *************** |url: http://localhost/IGT/Consola/GuardarSap|action: GuardarSap
+2024-11-13 14:15:26.7242|INFO|Igt.WebServices.Base.Log|*************** Finalizando Método GuardarSap *************** 
+2024-11-13 14:15:26.7242|INFO|Igt.WebServices.Base.Log|*************** Finalizando Método GuardarSap *************** |url: http://localhost/IGT/Consola/GuardarSap|action: GuardarSap
+2024-11-13 14:15:26.7385|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method Igt.WebServices.Base.Controllers.ConsolaController.PostSap (WebServicesLaiLai), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 5540.2168ms. 
+2024-11-13 14:15:26.7655|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.String'. 
+2024-11-13 14:15:26.7850|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action Igt.WebServices.Base.Controllers.ConsolaController.PostSap (WebServicesLaiLai) in 6027.165ms 
+2024-11-13 14:15:26.7850|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 7761.5737ms 200 text/plain; charset=utf-8 
+2024-11-13 14:16:13.5118|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 POST http://localhost:50245/IGT/Consola/GuardarSap application/json 168 
+2024-11-13 14:16:13.5666|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "GuardarSap", controller = "Consola"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] PostSap(Igt.WebServices.Base.Models.ConfiguracionDBModel) on controller Igt.WebServices.Base.Controllers.ConsolaController (WebServicesLaiLai). 
+2024-11-13 14:16:13.6353|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method Igt.WebServices.Base.Controllers.ConsolaController.PostSap (WebServicesLaiLai) - Validation state: Valid 
+2024-11-13 14:16:13.6353|INFO|Igt.WebServices.Base.Log|*************** Iniciando Método GuardarSap *************** 
+2024-11-13 14:16:13.6353|INFO|Igt.WebServices.Base.Log|*************** Iniciando Método GuardarSap *************** |url: http://localhost/IGT/Consola/GuardarSap|action: GuardarSap
+2024-11-13 14:18:06.2698|INFO|Igt.WebServices.Base.Log|*************** Finalizando Método GuardarSap *************** 
+2024-11-13 14:18:06.2698|INFO|Igt.WebServices.Base.Log|*************** Finalizando Método GuardarSap *************** |url: http://localhost/IGT/Consola/GuardarSap|action: GuardarSap
+2024-11-13 14:18:06.2698|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method Igt.WebServices.Base.Controllers.ConsolaController.PostSap (WebServicesLaiLai), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 112641.9012ms. 
+2024-11-13 14:18:06.2698|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.String'. 
+2024-11-13 14:18:06.2773|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action Igt.WebServices.Base.Controllers.ConsolaController.PostSap (WebServicesLaiLai) in 112714.4949ms 
+2024-11-13 14:18:06.2773|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 112772.058ms 200 text/plain; charset=utf-8 
+2024-11-13 14:18:12.0509|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 POST http://localhost:50245/IGT/Consola/GuardarSap application/json 168 
+2024-11-13 14:18:12.0509|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "GuardarSap", controller = "Consola"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] PostSap(Igt.WebServices.Base.Models.ConfiguracionDBModel) on controller Igt.WebServices.Base.Controllers.ConsolaController (WebServicesLaiLai). 
+2024-11-13 14:18:12.0600|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method Igt.WebServices.Base.Controllers.ConsolaController.PostSap (WebServicesLaiLai) - Validation state: Valid 
+2024-11-13 14:18:12.0600|INFO|Igt.WebServices.Base.Log|*************** Iniciando Método GuardarSap *************** 
+2024-11-13 14:18:12.0600|INFO|Igt.WebServices.Base.Log|*************** Iniciando Método GuardarSap *************** |url: http://localhost/IGT/Consola/GuardarSap|action: GuardarSap
+2024-11-13 14:18:15.8131|INFO|Igt.WebServices.Base.Log|*************** Finalizando Método GuardarSap *************** 
+2024-11-13 14:18:15.8131|INFO|Igt.WebServices.Base.Log|*************** Finalizando Método GuardarSap *************** |url: http://localhost/IGT/Consola/GuardarSap|action: GuardarSap
+2024-11-13 14:18:15.8131|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method Igt.WebServices.Base.Controllers.ConsolaController.PostSap (WebServicesLaiLai), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 3754.859ms. 
+2024-11-13 14:18:15.8479|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.String'. 
+2024-11-13 14:18:15.8874|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action Igt.WebServices.Base.Controllers.ConsolaController.PostSap (WebServicesLaiLai) in 3829.6501ms 
+2024-11-13 14:18:15.8874|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 3838.8028ms 200 text/plain; charset=utf-8 
+2024-11-13 14:18:42.0419|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 POST http://localhost:50245/IGT/Consola/GuardarSap application/json 168 
+2024-11-13 14:18:42.0570|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "GuardarSap", controller = "Consola"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] PostSap(Igt.WebServices.Base.Models.ConfiguracionDBModel) on controller Igt.WebServices.Base.Controllers.ConsolaController (WebServicesLaiLai). 
+2024-11-13 14:18:42.1328|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method Igt.WebServices.Base.Controllers.ConsolaController.PostSap (WebServicesLaiLai) - Validation state: Valid 
+2024-11-13 14:18:42.1685|INFO|Igt.WebServices.Base.Log|*************** Iniciando Método GuardarSap *************** 
+2024-11-13 14:18:42.1685|INFO|Igt.WebServices.Base.Log|*************** Iniciando Método GuardarSap *************** |url: http://localhost/IGT/Consola/GuardarSap|action: GuardarSap
+2024-11-13 14:19:23.2907|INFO|Igt.WebServices.Base.Log|*************** Finalizando Método GuardarSap *************** 
+2024-11-13 14:19:23.2907|INFO|Igt.WebServices.Base.Log|*************** Finalizando Método GuardarSap *************** |url: http://localhost/IGT/Consola/GuardarSap|action: GuardarSap
+2024-11-13 14:19:23.2907|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method Igt.WebServices.Base.Controllers.ConsolaController.PostSap (WebServicesLaiLai), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 41126.3991ms. 
+2024-11-13 14:19:23.2907|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.String'. 
+2024-11-13 14:19:23.2907|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action Igt.WebServices.Base.Controllers.ConsolaController.PostSap (WebServicesLaiLai) in 41191.4994ms 
+2024-11-13 14:19:23.2907|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 41254.496ms 200 text/plain; charset=utf-8 
+2024-11-13 14:22:08.4279|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'D:\Users\oliver.solorzano.INTEGRAGT\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2024-11-13 14:22:10.9228|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:50245/  0 
+2024-11-13 14:22:11.1216|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 194.5778ms 200  
+2024-11-13 14:22:40.8802|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 POST http://localhost:50245/IGT/Consola/GuardarSap application/json 168 
+2024-11-13 14:22:43.5362|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "GuardarSap", controller = "Consola"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] PostSap(Igt.WebServices.Base.Models.ConfiguracionDBModel) on controller Igt.WebServices.Base.Controllers.ConsolaController (WebServicesLaiLai). 
+2024-11-13 14:22:44.1219|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method Igt.WebServices.Base.Controllers.ConsolaController.PostSap (WebServicesLaiLai) - Validation state: Valid 
+2024-11-13 14:22:44.2411|INFO|Igt.WebServices.Base.Log|*************** Iniciando Método GuardarSap *************** 
+2024-11-13 14:22:44.2411|INFO|Igt.WebServices.Base.Log|*************** Iniciando Método GuardarSap *************** |url: http://localhost/IGT/Consola/GuardarSap|action: GuardarSap
+2024-11-13 14:23:18.1681|INFO|Igt.WebServices.Base.Log|*************** Finalizando Método GuardarSap *************** 
+2024-11-13 14:23:18.1681|INFO|Igt.WebServices.Base.Log|*************** Finalizando Método GuardarSap *************** |url: http://localhost/IGT/Consola/GuardarSap|action: GuardarSap
+2024-11-13 14:23:18.1731|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method Igt.WebServices.Base.Controllers.ConsolaController.PostSap (WebServicesLaiLai), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 34047.1508ms. 
+2024-11-13 14:23:18.1855|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.String'. 
+2024-11-13 14:23:18.2474|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action Igt.WebServices.Base.Controllers.ConsolaController.PostSap (WebServicesLaiLai) in 34692.8892ms 
+2024-11-13 14:23:18.2474|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 37376.2272ms 200 text/plain; charset=utf-8 

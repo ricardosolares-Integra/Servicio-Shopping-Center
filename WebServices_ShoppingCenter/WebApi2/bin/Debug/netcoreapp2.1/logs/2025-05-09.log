@@ -1,0 +1,801 @@
+2025-05-09 09:26:10.7480|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'D:\Users\ricardo.solares\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2025-05-09 09:26:13.0236|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:50246/  0 
+2025-05-09 09:26:13.1477|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 121.4587ms 200  
+2025-05-09 09:26:24.2553|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:50246/IGT/Servicio/ServiceTimer   
+2025-05-09 09:26:25.4109|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "ServiceTimer", controller = "Servicio"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] serviceTimer() on controller ShoppingCenter.WebServices.Base.Controllers.ServicioController (WebServicesShoppingCenter). 
+2025-05-09 09:26:25.4582|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) - Validation state: Valid 
+2025-05-09 09:28:12.7196|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-09 09:28:12.7196|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-09 09:28:12.8939|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /Items?$select=ItemCode&$filter=U_IdMenuLink eq 'A17' 
+Resultado Transaccion: Fallido  
+Request:  
+Tipo objeto: 4
+Request:  
+ 
+2025-05-09 09:28:12.8939|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (GET) /Items?$select=ItemCode&$filter=U_IdMenuLink eq 'A17' 
+Resultado Transaccion: Fallido  
+Request:  
+Tipo objeto: 4
+Request:  
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-09 09:28:12.8939|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-09 09:28:12.8939|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-09 09:31:00.8239|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'D:\Users\ricardo.solares\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2025-05-09 09:31:02.7171|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:50246/  0 
+2025-05-09 09:31:02.8711|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 148.8415ms 200  
+2025-05-09 09:38:39.5085|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:50246/IGT/Servicio/ServiceTimer   
+2025-05-09 09:38:40.2666|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "ServiceTimer", controller = "Servicio"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] serviceTimer() on controller ShoppingCenter.WebServices.Base.Controllers.ServicioController (WebServicesShoppingCenter). 
+2025-05-09 09:38:40.3045|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) - Validation state: Valid 
+2025-05-09 09:41:38.3621|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-09 09:41:38.3621|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-09 09:41:38.9137|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: {
+  "CardCode": "CLI0001",
+  "TaxDate": "2025-05-07T10:30:00",
+  "U_IdFactura": "F001",
+  "U_Bodega": "BOD001",
+  "U_TipoDTE": "01",
+  "U_NumeroControl": "NC123456",
+  "U_CodigoGeneracion": "CG987654",
+  "U_SelloMH": "SMH001",
+  "U_NumeroControl_Del": "NC100",
+  "DocumentLines": [
+    {
+      "ItemCode": "A17",
+      "Quantity": 2.0,
+      "PriceAfterVAT": 180.0,
+      "Currency": "USD",
+      "TaxCode": "IVA",
+      "LineTaxJurisdictions": [],
+      "GeneratedAssets": [],
+      "EBooksDetails": [],
+      "DocumentLineAdditionalExpenses": [],
+      "WithholdingTaxLines": [],
+      "SerialNumbers": [],
+      "BatchNumbers": [],
+      "DocumentLinesBinAllocations": [],
+      "ExportProcesses": [],
+      "CCDNumbers": [],
+      "ImportProcesses": []
+    }
+  ]
+} 
+Tipo objeto: 2
+Request: {
+  "CardCode": "CLI0001",
+  "TaxDate": "2025-05-07T10:30:00",
+  "U_IdFactura": "F001",
+  "U_Bodega": "BOD001",
+  "U_TipoDTE": "01",
+  "U_NumeroControl": "NC123456",
+  "U_CodigoGeneracion": "CG987654",
+  "U_SelloMH": "SMH001",
+  "U_NumeroControl_Del": "NC100",
+  "DocumentLines": [
+    {
+      "ItemCode": "A17",
+      "Quantity": 2.0,
+      "PriceAfterVAT": 180.0,
+      "Currency": "USD",
+      "TaxCode": "IVA",
+      "LineTaxJurisdictions": [],
+      "GeneratedAssets": [],
+      "EBooksDetails": [],
+      "DocumentLineAdditionalExpenses": [],
+      "WithholdingTaxLines": [],
+      "SerialNumbers": [],
+      "BatchNumbers": [],
+      "DocumentLinesBinAllocations": [],
+      "ExportProcesses": [],
+      "CCDNumbers": [],
+      "ImportProcesses": []
+    }
+  ]
+} 
+ 
+2025-05-09 09:41:38.9137|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: {
+  "CardCode": "CLI0001",
+  "TaxDate": "2025-05-07T10:30:00",
+  "U_IdFactura": "F001",
+  "U_Bodega": "BOD001",
+  "U_TipoDTE": "01",
+  "U_NumeroControl": "NC123456",
+  "U_CodigoGeneracion": "CG987654",
+  "U_SelloMH": "SMH001",
+  "U_NumeroControl_Del": "NC100",
+  "DocumentLines": [
+    {
+      "ItemCode": "A17",
+      "Quantity": 2.0,
+      "PriceAfterVAT": 180.0,
+      "Currency": "USD",
+      "TaxCode": "IVA",
+      "LineTaxJurisdictions": [],
+      "GeneratedAssets": [],
+      "EBooksDetails": [],
+      "DocumentLineAdditionalExpenses": [],
+      "WithholdingTaxLines": [],
+      "SerialNumbers": [],
+      "BatchNumbers": [],
+      "DocumentLinesBinAllocations": [],
+      "ExportProcesses": [],
+      "CCDNumbers": [],
+      "ImportProcesses": []
+    }
+  ]
+} 
+Tipo objeto: 2
+Request: {
+  "CardCode": "CLI0001",
+  "TaxDate": "2025-05-07T10:30:00",
+  "U_IdFactura": "F001",
+  "U_Bodega": "BOD001",
+  "U_TipoDTE": "01",
+  "U_NumeroControl": "NC123456",
+  "U_CodigoGeneracion": "CG987654",
+  "U_SelloMH": "SMH001",
+  "U_NumeroControl_Del": "NC100",
+  "DocumentLines": [
+    {
+      "ItemCode": "A17",
+      "Quantity": 2.0,
+      "PriceAfterVAT": 180.0,
+      "Currency": "USD",
+      "TaxCode": "IVA",
+      "LineTaxJurisdictions": [],
+      "GeneratedAssets": [],
+      "EBooksDetails": [],
+      "DocumentLineAdditionalExpenses": [],
+      "WithholdingTaxLines": [],
+      "SerialNumbers": [],
+      "BatchNumbers": [],
+      "DocumentLinesBinAllocations": [],
+      "ExportProcesses": [],
+      "CCDNumbers": [],
+      "ImportProcesses": []
+    }
+  ]
+} 
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-09 09:41:38.9234|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-09 09:41:38.9234|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-09 09:41:59.8307|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-09 09:41:59.8307|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-09 09:42:00.0307|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: System.FieldAccessException: {
+   "error" : {
+      "code" : -10,
+      "message" : {
+         "lang" : "en-us",
+         "value" : "Update the exchange rate  , 'USD'"
+      }
+   }
+}
+
+   at ShoppingCenter.WebServices.Base.Utilidades.Conexion.RandomRest(String Metodo, String Data, String URL, Int32 idTipoObjetoSap, Int32 idObjetoSap, String idObjetoIntermedia, Boolean UltimoIntento) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Utilidades\Conexion.cs:line 478
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.finalizarIntento(Boolean enviado, String bdIntermedia, String Metodo, String Data, String URL, Int32 IdTipoObjetoSap, Int32 idObjetoSap, String IdObjetoIntermedia, String TxtIdSap) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 60
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 106
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 133 
+Tipo objeto: 2
+Request: System.FieldAccessException: {
+   "error" : {
+      "code" : -10,
+      "message" : {
+         "lang" : "en-us",
+         "value" : "Update the exchange rate  , 'USD'"
+      }
+   }
+}
+
+   at ShoppingCenter.WebServices.Base.Utilidades.Conexion.RandomRest(String Metodo, String Data, String URL, Int32 idTipoObjetoSap, Int32 idObjetoSap, String idObjetoIntermedia, Boolean UltimoIntento) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Utilidades\Conexion.cs:line 478
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.finalizarIntento(Boolean enviado, String bdIntermedia, String Metodo, String Data, String URL, Int32 IdTipoObjetoSap, Int32 idObjetoSap, String IdObjetoIntermedia, String TxtIdSap) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 60
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 106
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 133 
+ 
+2025-05-09 09:42:00.0307|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: System.FieldAccessException: {
+   "error" : {
+      "code" : -10,
+      "message" : {
+         "lang" : "en-us",
+         "value" : "Update the exchange rate  , 'USD'"
+      }
+   }
+}
+
+   at ShoppingCenter.WebServices.Base.Utilidades.Conexion.RandomRest(String Metodo, String Data, String URL, Int32 idTipoObjetoSap, Int32 idObjetoSap, String idObjetoIntermedia, Boolean UltimoIntento) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Utilidades\Conexion.cs:line 478
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.finalizarIntento(Boolean enviado, String bdIntermedia, String Metodo, String Data, String URL, Int32 IdTipoObjetoSap, Int32 idObjetoSap, String IdObjetoIntermedia, String TxtIdSap) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 60
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 106
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 133 
+Tipo objeto: 2
+Request: System.FieldAccessException: {
+   "error" : {
+      "code" : -10,
+      "message" : {
+         "lang" : "en-us",
+         "value" : "Update the exchange rate  , 'USD'"
+      }
+   }
+}
+
+   at ShoppingCenter.WebServices.Base.Utilidades.Conexion.RandomRest(String Metodo, String Data, String URL, Int32 idTipoObjetoSap, Int32 idObjetoSap, String idObjetoIntermedia, Boolean UltimoIntento) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Utilidades\Conexion.cs:line 478
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.finalizarIntento(Boolean enviado, String bdIntermedia, String Metodo, String Data, String URL, Int32 IdTipoObjetoSap, Int32 idObjetoSap, String IdObjetoIntermedia, String TxtIdSap) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 60
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 106
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 133 
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-09 09:42:00.0430|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-09 09:42:00.0430|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-09 09:42:00.2107|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 199907.3409ms. 
+2025-05-09 09:42:00.2260|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.String'. 
+2025-05-09 09:42:00.2430|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) in 199971.8194ms 
+2025-05-09 09:42:00.2662|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 200765.3099ms 200 text/plain; charset=utf-8 
+2025-05-09 09:44:46.1663|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:50246/IGT/Servicio/ServiceTimer   
+2025-05-09 09:44:46.2064|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "ServiceTimer", controller = "Servicio"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] serviceTimer() on controller ShoppingCenter.WebServices.Base.Controllers.ServicioController (WebServicesShoppingCenter). 
+2025-05-09 09:44:46.2064|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) - Validation state: Valid 
+2025-05-09 09:45:28.7862|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-09 09:45:28.7862|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-09 09:45:29.2302|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: {
+  "CardCode": "CLI0001",
+  "TaxDate": "2025-05-07T10:30:00",
+  "U_IdFactura": "F001",
+  "U_Bodega": "BOD001",
+  "U_TipoDTE": "01",
+  "U_NumeroControl": "NC123456",
+  "U_CodigoGeneracion": "CG987654",
+  "U_SelloMH": "SMH001",
+  "U_NumeroControl_Del": "NC100",
+  "DocumentLines": [
+    {
+      "ItemCode": "A17",
+      "Quantity": 2.0,
+      "PriceAfterVAT": 180.0,
+      "Currency": "USD",
+      "TaxCode": "IVA",
+      "LineTaxJurisdictions": [],
+      "GeneratedAssets": [],
+      "EBooksDetails": [],
+      "DocumentLineAdditionalExpenses": [],
+      "WithholdingTaxLines": [],
+      "SerialNumbers": [],
+      "BatchNumbers": [],
+      "DocumentLinesBinAllocations": [],
+      "ExportProcesses": [],
+      "CCDNumbers": [],
+      "ImportProcesses": []
+    }
+  ]
+} 
+Tipo objeto: 2
+Request: {
+  "CardCode": "CLI0001",
+  "TaxDate": "2025-05-07T10:30:00",
+  "U_IdFactura": "F001",
+  "U_Bodega": "BOD001",
+  "U_TipoDTE": "01",
+  "U_NumeroControl": "NC123456",
+  "U_CodigoGeneracion": "CG987654",
+  "U_SelloMH": "SMH001",
+  "U_NumeroControl_Del": "NC100",
+  "DocumentLines": [
+    {
+      "ItemCode": "A17",
+      "Quantity": 2.0,
+      "PriceAfterVAT": 180.0,
+      "Currency": "USD",
+      "TaxCode": "IVA",
+      "LineTaxJurisdictions": [],
+      "GeneratedAssets": [],
+      "EBooksDetails": [],
+      "DocumentLineAdditionalExpenses": [],
+      "WithholdingTaxLines": [],
+      "SerialNumbers": [],
+      "BatchNumbers": [],
+      "DocumentLinesBinAllocations": [],
+      "ExportProcesses": [],
+      "CCDNumbers": [],
+      "ImportProcesses": []
+    }
+  ]
+} 
+ 
+2025-05-09 09:45:29.2302|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: {
+  "CardCode": "CLI0001",
+  "TaxDate": "2025-05-07T10:30:00",
+  "U_IdFactura": "F001",
+  "U_Bodega": "BOD001",
+  "U_TipoDTE": "01",
+  "U_NumeroControl": "NC123456",
+  "U_CodigoGeneracion": "CG987654",
+  "U_SelloMH": "SMH001",
+  "U_NumeroControl_Del": "NC100",
+  "DocumentLines": [
+    {
+      "ItemCode": "A17",
+      "Quantity": 2.0,
+      "PriceAfterVAT": 180.0,
+      "Currency": "USD",
+      "TaxCode": "IVA",
+      "LineTaxJurisdictions": [],
+      "GeneratedAssets": [],
+      "EBooksDetails": [],
+      "DocumentLineAdditionalExpenses": [],
+      "WithholdingTaxLines": [],
+      "SerialNumbers": [],
+      "BatchNumbers": [],
+      "DocumentLinesBinAllocations": [],
+      "ExportProcesses": [],
+      "CCDNumbers": [],
+      "ImportProcesses": []
+    }
+  ]
+} 
+Tipo objeto: 2
+Request: {
+  "CardCode": "CLI0001",
+  "TaxDate": "2025-05-07T10:30:00",
+  "U_IdFactura": "F001",
+  "U_Bodega": "BOD001",
+  "U_TipoDTE": "01",
+  "U_NumeroControl": "NC123456",
+  "U_CodigoGeneracion": "CG987654",
+  "U_SelloMH": "SMH001",
+  "U_NumeroControl_Del": "NC100",
+  "DocumentLines": [
+    {
+      "ItemCode": "A17",
+      "Quantity": 2.0,
+      "PriceAfterVAT": 180.0,
+      "Currency": "USD",
+      "TaxCode": "IVA",
+      "LineTaxJurisdictions": [],
+      "GeneratedAssets": [],
+      "EBooksDetails": [],
+      "DocumentLineAdditionalExpenses": [],
+      "WithholdingTaxLines": [],
+      "SerialNumbers": [],
+      "BatchNumbers": [],
+      "DocumentLinesBinAllocations": [],
+      "ExportProcesses": [],
+      "CCDNumbers": [],
+      "ImportProcesses": []
+    }
+  ]
+} 
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-09 09:45:29.2302|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-09 09:45:29.2302|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-09 09:45:29.2415|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-09 09:45:29.2415|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-09 09:45:29.6582|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: System.FieldAccessException: {
+   "error" : {
+      "code" : -10,
+      "message" : {
+         "lang" : "en-us",
+         "value" : "Quantity falls into negative inventory  [DocumentLines.ItemCode][line: 1]"
+      }
+   }
+}
+
+   at ShoppingCenter.WebServices.Base.Utilidades.Conexion.RandomRest(String Metodo, String Data, String URL, Int32 idTipoObjetoSap, Int32 idObjetoSap, String idObjetoIntermedia, Boolean UltimoIntento) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Utilidades\Conexion.cs:line 478
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.finalizarIntento(Boolean enviado, String bdIntermedia, String Metodo, String Data, String URL, Int32 IdTipoObjetoSap, Int32 idObjetoSap, String IdObjetoIntermedia, String TxtIdSap) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 60
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 106
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 133 
+Tipo objeto: 2
+Request: System.FieldAccessException: {
+   "error" : {
+      "code" : -10,
+      "message" : {
+         "lang" : "en-us",
+         "value" : "Quantity falls into negative inventory  [DocumentLines.ItemCode][line: 1]"
+      }
+   }
+}
+
+   at ShoppingCenter.WebServices.Base.Utilidades.Conexion.RandomRest(String Metodo, String Data, String URL, Int32 idTipoObjetoSap, Int32 idObjetoSap, String idObjetoIntermedia, Boolean UltimoIntento) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Utilidades\Conexion.cs:line 478
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.finalizarIntento(Boolean enviado, String bdIntermedia, String Metodo, String Data, String URL, Int32 IdTipoObjetoSap, Int32 idObjetoSap, String IdObjetoIntermedia, String TxtIdSap) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 60
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 106
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 133 
+ 
+2025-05-09 09:45:29.6582|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: System.FieldAccessException: {
+   "error" : {
+      "code" : -10,
+      "message" : {
+         "lang" : "en-us",
+         "value" : "Quantity falls into negative inventory  [DocumentLines.ItemCode][line: 1]"
+      }
+   }
+}
+
+   at ShoppingCenter.WebServices.Base.Utilidades.Conexion.RandomRest(String Metodo, String Data, String URL, Int32 idTipoObjetoSap, Int32 idObjetoSap, String idObjetoIntermedia, Boolean UltimoIntento) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Utilidades\Conexion.cs:line 478
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.finalizarIntento(Boolean enviado, String bdIntermedia, String Metodo, String Data, String URL, Int32 IdTipoObjetoSap, Int32 idObjetoSap, String IdObjetoIntermedia, String TxtIdSap) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 60
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 106
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 133 
+Tipo objeto: 2
+Request: System.FieldAccessException: {
+   "error" : {
+      "code" : -10,
+      "message" : {
+         "lang" : "en-us",
+         "value" : "Quantity falls into negative inventory  [DocumentLines.ItemCode][line: 1]"
+      }
+   }
+}
+
+   at ShoppingCenter.WebServices.Base.Utilidades.Conexion.RandomRest(String Metodo, String Data, String URL, Int32 idTipoObjetoSap, Int32 idObjetoSap, String idObjetoIntermedia, Boolean UltimoIntento) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Utilidades\Conexion.cs:line 478
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.finalizarIntento(Boolean enviado, String bdIntermedia, String Metodo, String Data, String URL, Int32 IdTipoObjetoSap, Int32 idObjetoSap, String IdObjetoIntermedia, String TxtIdSap) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 60
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 106
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 133 
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-09 09:45:29.6582|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-09 09:45:29.6582|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-09 09:45:29.8094|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 43599.8631ms. 
+2025-05-09 09:45:29.8172|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.String'. 
+2025-05-09 09:45:29.8349|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) in 43628.2126ms 
+2025-05-09 09:45:29.8349|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 43673.2362ms 200 text/plain; charset=utf-8 
+2025-05-09 09:45:55.8033|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:50246/IGT/Servicio/ServiceTimer   
+2025-05-09 09:45:55.8033|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "ServiceTimer", controller = "Servicio"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] serviceTimer() on controller ShoppingCenter.WebServices.Base.Controllers.ServicioController (WebServicesShoppingCenter). 
+2025-05-09 09:45:55.8261|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) - Validation state: Valid 
+2025-05-09 09:47:34.2376|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-09 09:47:34.2376|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-09 09:47:34.6590|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: {
+  "CardCode": "CLI0001",
+  "TaxDate": "2025-05-07T10:30:00",
+  "U_IdFactura": "F001",
+  "U_Bodega": "BOD001",
+  "U_TipoDTE": "01",
+  "U_NumeroControl": "NC123456",
+  "U_CodigoGeneracion": "CG987654",
+  "U_SelloMH": "SMH001",
+  "U_NumeroControl_Del": "NC100",
+  "DocumentLines": [
+    {
+      "ItemCode": "A17",
+      "Quantity": 2.0,
+      "PriceAfterVAT": 180.0,
+      "Currency": "USD",
+      "TaxCode": "IVA",
+      "LineTaxJurisdictions": [],
+      "GeneratedAssets": [],
+      "EBooksDetails": [],
+      "DocumentLineAdditionalExpenses": [],
+      "WithholdingTaxLines": [],
+      "SerialNumbers": [],
+      "BatchNumbers": [],
+      "DocumentLinesBinAllocations": [],
+      "ExportProcesses": [],
+      "CCDNumbers": [],
+      "ImportProcesses": []
+    }
+  ]
+} 
+Tipo objeto: 2
+Request: {
+  "CardCode": "CLI0001",
+  "TaxDate": "2025-05-07T10:30:00",
+  "U_IdFactura": "F001",
+  "U_Bodega": "BOD001",
+  "U_TipoDTE": "01",
+  "U_NumeroControl": "NC123456",
+  "U_CodigoGeneracion": "CG987654",
+  "U_SelloMH": "SMH001",
+  "U_NumeroControl_Del": "NC100",
+  "DocumentLines": [
+    {
+      "ItemCode": "A17",
+      "Quantity": 2.0,
+      "PriceAfterVAT": 180.0,
+      "Currency": "USD",
+      "TaxCode": "IVA",
+      "LineTaxJurisdictions": [],
+      "GeneratedAssets": [],
+      "EBooksDetails": [],
+      "DocumentLineAdditionalExpenses": [],
+      "WithholdingTaxLines": [],
+      "SerialNumbers": [],
+      "BatchNumbers": [],
+      "DocumentLinesBinAllocations": [],
+      "ExportProcesses": [],
+      "CCDNumbers": [],
+      "ImportProcesses": []
+    }
+  ]
+} 
+ 
+2025-05-09 09:47:34.6590|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: {
+  "CardCode": "CLI0001",
+  "TaxDate": "2025-05-07T10:30:00",
+  "U_IdFactura": "F001",
+  "U_Bodega": "BOD001",
+  "U_TipoDTE": "01",
+  "U_NumeroControl": "NC123456",
+  "U_CodigoGeneracion": "CG987654",
+  "U_SelloMH": "SMH001",
+  "U_NumeroControl_Del": "NC100",
+  "DocumentLines": [
+    {
+      "ItemCode": "A17",
+      "Quantity": 2.0,
+      "PriceAfterVAT": 180.0,
+      "Currency": "USD",
+      "TaxCode": "IVA",
+      "LineTaxJurisdictions": [],
+      "GeneratedAssets": [],
+      "EBooksDetails": [],
+      "DocumentLineAdditionalExpenses": [],
+      "WithholdingTaxLines": [],
+      "SerialNumbers": [],
+      "BatchNumbers": [],
+      "DocumentLinesBinAllocations": [],
+      "ExportProcesses": [],
+      "CCDNumbers": [],
+      "ImportProcesses": []
+    }
+  ]
+} 
+Tipo objeto: 2
+Request: {
+  "CardCode": "CLI0001",
+  "TaxDate": "2025-05-07T10:30:00",
+  "U_IdFactura": "F001",
+  "U_Bodega": "BOD001",
+  "U_TipoDTE": "01",
+  "U_NumeroControl": "NC123456",
+  "U_CodigoGeneracion": "CG987654",
+  "U_SelloMH": "SMH001",
+  "U_NumeroControl_Del": "NC100",
+  "DocumentLines": [
+    {
+      "ItemCode": "A17",
+      "Quantity": 2.0,
+      "PriceAfterVAT": 180.0,
+      "Currency": "USD",
+      "TaxCode": "IVA",
+      "LineTaxJurisdictions": [],
+      "GeneratedAssets": [],
+      "EBooksDetails": [],
+      "DocumentLineAdditionalExpenses": [],
+      "WithholdingTaxLines": [],
+      "SerialNumbers": [],
+      "BatchNumbers": [],
+      "DocumentLinesBinAllocations": [],
+      "ExportProcesses": [],
+      "CCDNumbers": [],
+      "ImportProcesses": []
+    }
+  ]
+} 
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-09 09:47:34.6814|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-09 09:47:34.6814|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-09 09:47:56.8485|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-09 09:47:56.8485|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-09 09:47:57.2560|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: System.FieldAccessException: {
+   "error" : {
+      "code" : -10,
+      "message" : {
+         "lang" : "en-us",
+         "value" : "Quantity falls into negative inventory  [DocumentLines.ItemCode][line: 1]"
+      }
+   }
+}
+
+   at ShoppingCenter.WebServices.Base.Utilidades.Conexion.RandomRest(String Metodo, String Data, String URL, Int32 idTipoObjetoSap, Int32 idObjetoSap, String idObjetoIntermedia, Boolean UltimoIntento) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Utilidades\Conexion.cs:line 478
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.finalizarIntento(Boolean enviado, String bdIntermedia, String Metodo, String Data, String URL, Int32 IdTipoObjetoSap, Int32 idObjetoSap, String IdObjetoIntermedia, String TxtIdSap) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 60
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 106
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 133 
+Tipo objeto: 2
+Request: System.FieldAccessException: {
+   "error" : {
+      "code" : -10,
+      "message" : {
+         "lang" : "en-us",
+         "value" : "Quantity falls into negative inventory  [DocumentLines.ItemCode][line: 1]"
+      }
+   }
+}
+
+   at ShoppingCenter.WebServices.Base.Utilidades.Conexion.RandomRest(String Metodo, String Data, String URL, Int32 idTipoObjetoSap, Int32 idObjetoSap, String idObjetoIntermedia, Boolean UltimoIntento) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Utilidades\Conexion.cs:line 478
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.finalizarIntento(Boolean enviado, String bdIntermedia, String Metodo, String Data, String URL, Int32 IdTipoObjetoSap, Int32 idObjetoSap, String IdObjetoIntermedia, String TxtIdSap) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 60
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 106
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 133 
+ 
+2025-05-09 09:47:57.2560|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Fallido  
+Request: System.FieldAccessException: {
+   "error" : {
+      "code" : -10,
+      "message" : {
+         "lang" : "en-us",
+         "value" : "Quantity falls into negative inventory  [DocumentLines.ItemCode][line: 1]"
+      }
+   }
+}
+
+   at ShoppingCenter.WebServices.Base.Utilidades.Conexion.RandomRest(String Metodo, String Data, String URL, Int32 idTipoObjetoSap, Int32 idObjetoSap, String idObjetoIntermedia, Boolean UltimoIntento) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Utilidades\Conexion.cs:line 478
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.finalizarIntento(Boolean enviado, String bdIntermedia, String Metodo, String Data, String URL, Int32 IdTipoObjetoSap, Int32 idObjetoSap, String IdObjetoIntermedia, String TxtIdSap) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 60
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 106
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 133 
+Tipo objeto: 2
+Request: System.FieldAccessException: {
+   "error" : {
+      "code" : -10,
+      "message" : {
+         "lang" : "en-us",
+         "value" : "Quantity falls into negative inventory  [DocumentLines.ItemCode][line: 1]"
+      }
+   }
+}
+
+   at ShoppingCenter.WebServices.Base.Utilidades.Conexion.RandomRest(String Metodo, String Data, String URL, Int32 idTipoObjetoSap, Int32 idObjetoSap, String idObjetoIntermedia, Boolean UltimoIntento) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Utilidades\Conexion.cs:line 478
+   at ShoppingCenter.WebServices.Base.Servicios.Documentos.finalizarIntento(Boolean enviado, String bdIntermedia, String Metodo, String Data, String URL, Int32 IdTipoObjetoSap, Int32 idObjetoSap, String IdObjetoIntermedia, String TxtIdSap) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\Documentos.cs:line 60
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.procesarFila(DataRow row, String bdIntermedia) in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 106
+   at ShoppingCenter.WebServices.Base.Servicios.FacturaDeudores.enviarDocumentosNoEnviadosSAP() in D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\Servicios\FacturaDeudores.cs:line 133 
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-09 09:47:57.2560|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-09 09:47:57.2560|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-09 09:47:57.4362|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 121601.4863ms. 
+2025-05-09 09:47:57.4362|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.String'. 
+2025-05-09 09:47:57.4362|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) in 121621.9616ms 
+2025-05-09 09:47:57.4362|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 121643.0096ms 200 text/plain; charset=utf-8 
+2025-05-09 10:01:03.2560|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:50246/IGT/Servicio/ServiceTimer   
+2025-05-09 10:01:03.2629|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "ServiceTimer", controller = "Servicio"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] serviceTimer() on controller ShoppingCenter.WebServices.Base.Controllers.ServicioController (WebServicesShoppingCenter). 
+2025-05-09 10:01:03.2808|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) - Validation state: Valid 
+2025-05-09 10:02:06.7943|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** 
+2025-05-09 10:02:06.7943|INFO|ShoppingCenter.WebServices.Base.Log|*************** Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-09 10:02:07.2098|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Exitoso  
+Request: {
+  "CardCode": "CLI0001",
+  "TaxDate": "2025-05-07T10:30:00",
+  "U_IdFactura": "F001",
+  "U_Bodega": "BOD001",
+  "U_TipoDTE": "01",
+  "U_NumeroControl": "NC123456",
+  "U_CodigoGeneracion": "CG987654",
+  "U_SelloMH": "SMH001",
+  "U_NumeroControl_Del": "NC100",
+  "DocumentLines": [
+    {
+      "ItemCode": "A17",
+      "Quantity": 2.0,
+      "PriceAfterVAT": 180.0,
+      "Currency": "USD",
+      "TaxCode": "IVA",
+      "LineTaxJurisdictions": [],
+      "GeneratedAssets": [],
+      "EBooksDetails": [],
+      "DocumentLineAdditionalExpenses": [],
+      "WithholdingTaxLines": [],
+      "SerialNumbers": [],
+      "BatchNumbers": [],
+      "DocumentLinesBinAllocations": [],
+      "ExportProcesses": [],
+      "CCDNumbers": [],
+      "ImportProcesses": []
+    }
+  ]
+} 
+Tipo objeto: 2
+Request: {
+  "CardCode": "CLI0001",
+  "TaxDate": "2025-05-07T10:30:00",
+  "U_IdFactura": "F001",
+  "U_Bodega": "BOD001",
+  "U_TipoDTE": "01",
+  "U_NumeroControl": "NC123456",
+  "U_CodigoGeneracion": "CG987654",
+  "U_SelloMH": "SMH001",
+  "U_NumeroControl_Del": "NC100",
+  "DocumentLines": [
+    {
+      "ItemCode": "A17",
+      "Quantity": 2.0,
+      "PriceAfterVAT": 180.0,
+      "Currency": "USD",
+      "TaxCode": "IVA",
+      "LineTaxJurisdictions": [],
+      "GeneratedAssets": [],
+      "EBooksDetails": [],
+      "DocumentLineAdditionalExpenses": [],
+      "WithholdingTaxLines": [],
+      "SerialNumbers": [],
+      "BatchNumbers": [],
+      "DocumentLinesBinAllocations": [],
+      "ExportProcesses": [],
+      "CCDNumbers": [],
+      "ImportProcesses": []
+    }
+  ]
+} 
+ 
+2025-05-09 10:02:07.2098|INFO|ShoppingCenter.WebServices.Base.Log|URLSL: (POST) /Invoices 
+Resultado Transaccion: Exitoso  
+Request: {
+  "CardCode": "CLI0001",
+  "TaxDate": "2025-05-07T10:30:00",
+  "U_IdFactura": "F001",
+  "U_Bodega": "BOD001",
+  "U_TipoDTE": "01",
+  "U_NumeroControl": "NC123456",
+  "U_CodigoGeneracion": "CG987654",
+  "U_SelloMH": "SMH001",
+  "U_NumeroControl_Del": "NC100",
+  "DocumentLines": [
+    {
+      "ItemCode": "A17",
+      "Quantity": 2.0,
+      "PriceAfterVAT": 180.0,
+      "Currency": "USD",
+      "TaxCode": "IVA",
+      "LineTaxJurisdictions": [],
+      "GeneratedAssets": [],
+      "EBooksDetails": [],
+      "DocumentLineAdditionalExpenses": [],
+      "WithholdingTaxLines": [],
+      "SerialNumbers": [],
+      "BatchNumbers": [],
+      "DocumentLinesBinAllocations": [],
+      "ExportProcesses": [],
+      "CCDNumbers": [],
+      "ImportProcesses": []
+    }
+  ]
+} 
+Tipo objeto: 2
+Request: {
+  "CardCode": "CLI0001",
+  "TaxDate": "2025-05-07T10:30:00",
+  "U_IdFactura": "F001",
+  "U_Bodega": "BOD001",
+  "U_TipoDTE": "01",
+  "U_NumeroControl": "NC123456",
+  "U_CodigoGeneracion": "CG987654",
+  "U_SelloMH": "SMH001",
+  "U_NumeroControl_Del": "NC100",
+  "DocumentLines": [
+    {
+      "ItemCode": "A17",
+      "Quantity": 2.0,
+      "PriceAfterVAT": 180.0,
+      "Currency": "USD",
+      "TaxCode": "IVA",
+      "LineTaxJurisdictions": [],
+      "GeneratedAssets": [],
+      "EBooksDetails": [],
+      "DocumentLineAdditionalExpenses": [],
+      "WithholdingTaxLines": [],
+      "SerialNumbers": [],
+      "BatchNumbers": [],
+      "DocumentLinesBinAllocations": [],
+      "ExportProcesses": [],
+      "CCDNumbers": [],
+      "ImportProcesses": []
+    }
+  ]
+} 
+ |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-09 10:02:07.2166|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** 
+2025-05-09 10:02:07.2166|INFO|ShoppingCenter.WebServices.Base.Log|*************** Finalizando Log *************** |url: http://localhost/IGT/Servicio/ServiceTimer|action: ServiceTimer
+2025-05-09 10:02:55.4895|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 112201.6059ms. 
+2025-05-09 10:02:55.4895|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.String'. 
+2025-05-09 10:02:55.5078|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action ShoppingCenter.WebServices.Base.Controllers.ServicioController.serviceTimer (WebServicesShoppingCenter) in 112236.4823ms 
+2025-05-09 10:02:55.5078|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 112259.0729ms 200 text/plain; charset=utf-8 

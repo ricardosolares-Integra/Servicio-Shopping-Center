@@ -1,0 +1,23 @@
+D:\Users\oliver.solorzano.INTEGRAGT\Desktop\Lai Lai\083 - Interfaz Sistemas Externos y SAP B1 - Lai Lai\Igt.WebServices.Base\WebApi2\bin\Release\netcoreapp2.1\nlog.config
+D:\Users\oliver.solorzano.INTEGRAGT\Desktop\Lai Lai\083 - Interfaz Sistemas Externos y SAP B1 - Lai Lai\Igt.WebServices.Base\WebApi2\bin\Release\netcoreapp2.1\packages.config
+D:\Users\oliver.solorzano.INTEGRAGT\Desktop\Lai Lai\083 - Interfaz Sistemas Externos y SAP B1 - Lai Lai\Igt.WebServices.Base\WebApi2\bin\Release\netcoreapp2.1\appsettings.Development.json
+D:\Users\oliver.solorzano.INTEGRAGT\Desktop\Lai Lai\083 - Interfaz Sistemas Externos y SAP B1 - Lai Lai\Igt.WebServices.Base\WebApi2\bin\Release\netcoreapp2.1\appsettings.json
+D:\Users\oliver.solorzano.INTEGRAGT\Desktop\Lai Lai\083 - Interfaz Sistemas Externos y SAP B1 - Lai Lai\Igt.WebServices.Base\WebApi2\bin\Release\netcoreapp2.1\Connected Services\OData Service\ConnectedService.json
+D:\Users\oliver.solorzano.INTEGRAGT\Desktop\Lai Lai\083 - Interfaz Sistemas Externos y SAP B1 - Lai Lai\Igt.WebServices.Base\WebApi2\bin\Release\netcoreapp2.1\BaseIntermedia.txt
+D:\Users\oliver.solorzano.INTEGRAGT\Desktop\Lai Lai\083 - Interfaz Sistemas Externos y SAP B1 - Lai Lai\Igt.WebServices.Base\WebApi2\bin\Release\netcoreapp2.1\WebServicesLaiLai.deps.json
+D:\Users\oliver.solorzano.INTEGRAGT\Desktop\Lai Lai\083 - Interfaz Sistemas Externos y SAP B1 - Lai Lai\Igt.WebServices.Base\WebApi2\bin\Release\netcoreapp2.1\WebServicesLaiLai.runtimeconfig.json
+D:\Users\oliver.solorzano.INTEGRAGT\Desktop\Lai Lai\083 - Interfaz Sistemas Externos y SAP B1 - Lai Lai\Igt.WebServices.Base\WebApi2\bin\Release\netcoreapp2.1\WebServicesLaiLai.runtimeconfig.dev.json
+D:\Users\oliver.solorzano.INTEGRAGT\Desktop\Lai Lai\083 - Interfaz Sistemas Externos y SAP B1 - Lai Lai\Igt.WebServices.Base\WebApi2\bin\Release\netcoreapp2.1\WebServicesLaiLai.dll
+D:\Users\oliver.solorzano.INTEGRAGT\Desktop\Lai Lai\083 - Interfaz Sistemas Externos y SAP B1 - Lai Lai\Igt.WebServices.Base\WebApi2\bin\Release\netcoreapp2.1\WebServicesLaiLai.pdb
+D:\Users\oliver.solorzano.INTEGRAGT\Desktop\Lai Lai\083 - Interfaz Sistemas Externos y SAP B1 - Lai Lai\Igt.WebServices.Base\WebApi2\obj\Release\netcoreapp2.1\Igt.WebServices.Base.csproj.AssemblyReference.cache
+D:\Users\oliver.solorzano.INTEGRAGT\Desktop\Lai Lai\083 - Interfaz Sistemas Externos y SAP B1 - Lai Lai\Igt.WebServices.Base\WebApi2\obj\Release\netcoreapp2.1\Igt.WebServices.Base.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\oliver.solorzano.INTEGRAGT\Desktop\Lai Lai\083 - Interfaz Sistemas Externos y SAP B1 - Lai Lai\Igt.WebServices.Base\WebApi2\obj\Release\netcoreapp2.1\Igt.WebServices.Base.AssemblyInfoInputs.cache
+D:\Users\oliver.solorzano.INTEGRAGT\Desktop\Lai Lai\083 - Interfaz Sistemas Externos y SAP B1 - Lai Lai\Igt.WebServices.Base\WebApi2\obj\Release\netcoreapp2.1\Igt.WebServices.Base.AssemblyInfo.cs
+D:\Users\oliver.solorzano.INTEGRAGT\Desktop\Lai Lai\083 - Interfaz Sistemas Externos y SAP B1 - Lai Lai\Igt.WebServices.Base\WebApi2\obj\Release\netcoreapp2.1\Igt.WebServices.Base.csproj.CoreCompileInputs.cache
+D:\Users\oliver.solorzano.INTEGRAGT\Desktop\Lai Lai\083 - Interfaz Sistemas Externos y SAP B1 - Lai Lai\Igt.WebServices.Base\WebApi2\obj\Release\netcoreapp2.1\Igt.WebServices.Base.RazorAssemblyInfo.cache
+D:\Users\oliver.solorzano.INTEGRAGT\Desktop\Lai Lai\083 - Interfaz Sistemas Externos y SAP B1 - Lai Lai\Igt.WebServices.Base\WebApi2\obj\Release\netcoreapp2.1\Igt.WebServices.Base.RazorAssemblyInfo.cs
+D:\Users\oliver.solorzano.INTEGRAGT\Desktop\Lai Lai\083 - Interfaz Sistemas Externos y SAP B1 - Lai Lai\Igt.WebServices.Base\WebApi2\obj\Release\netcoreapp2.1\Igt.WebServices.Base.RazorTargetAssemblyInfo.cache
+D:\Users\oliver.solorzano.INTEGRAGT\Desktop\Lai Lai\083 - Interfaz Sistemas Externos y SAP B1 - Lai Lai\Igt.WebServices.Base\WebApi2\obj\Release\netcoreapp2.1\WebServicesLaiLai.dll
+D:\Users\oliver.solorzano.INTEGRAGT\Desktop\Lai Lai\083 - Interfaz Sistemas Externos y SAP B1 - Lai Lai\Igt.WebServices.Base\WebApi2\obj\Release\netcoreapp2.1\WebServicesLaiLai.pdb
+D:\Users\oliver.solorzano.INTEGRAGT\Desktop\Lai Lai\083 - Interfaz Sistemas Externos y SAP B1 - Lai Lai\Igt.WebServices.Base\WebApi2\obj\Release\netcoreapp2.1\Igt.WebServices.Base.genruntimeconfig.cache
+D:\Users\oliver.solorzano.INTEGRAGT\Desktop\Lai Lai\083 - Interfaz Sistemas Externos y SAP B1 - Lai Lai\Igt.WebServices.Base\WebApi2\bin\Release\netcoreapp2.1\Connections.xml

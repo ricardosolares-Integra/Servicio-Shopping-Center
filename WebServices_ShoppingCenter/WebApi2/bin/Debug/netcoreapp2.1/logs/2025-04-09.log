@@ -1,0 +1,10 @@
+2025-04-09 09:30:14.4313|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\Consultor\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2025-04-09 09:30:15.3576|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:50245/  0 
+2025-04-09 09:30:15.4165|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 58.1812ms 200  
+2025-04-09 10:54:41.7590|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\Consultor\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2025-04-09 10:54:42.5810|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:50245/  0 
+2025-04-09 10:54:42.6360|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 53.431ms 200  
+2025-04-09 11:03:11.8510|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\Consultor\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2025-04-09 11:03:12.5818|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:50245/  0 
+2025-04-09 11:03:12.6283|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 45.8416ms 200  
+2025-04-09 11:07:58.8944|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\Consultor\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 

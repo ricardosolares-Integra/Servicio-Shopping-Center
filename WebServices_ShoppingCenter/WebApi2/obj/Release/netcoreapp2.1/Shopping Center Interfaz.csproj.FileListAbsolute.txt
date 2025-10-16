@@ -1,0 +1,47 @@
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\bin\Release\netcoreapp2.1\nlog.config
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\bin\Release\netcoreapp2.1\packages.config
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\bin\Release\netcoreapp2.1\appsettings.Development.json
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\bin\Release\netcoreapp2.1\appsettings.json
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\bin\Release\netcoreapp2.1\Connected Services\OData Service\ConnectedService.json
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\bin\Release\netcoreapp2.1\BaseIntermedia.txt
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\bin\Release\netcoreapp2.1\Connections.xml
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\bin\Release\netcoreapp2.1\WebServicesShoppingCenter.deps.json
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\bin\Release\netcoreapp2.1\WebServicesShoppingCenter.runtimeconfig.json
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\bin\Release\netcoreapp2.1\WebServicesShoppingCenter.runtimeconfig.dev.json
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\bin\Release\netcoreapp2.1\WebServicesShoppingCenter.dll
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\bin\Release\netcoreapp2.1\WebServicesShoppingCenter.pdb
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\obj\Release\netcoreapp2.1\Shopping Center Interfaz.csproj.AssemblyReference.cache
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\obj\Release\netcoreapp2.1\Shopping Center Interfaz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\obj\Release\netcoreapp2.1\Shopping Center Interfaz.AssemblyInfoInputs.cache
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\obj\Release\netcoreapp2.1\Shopping Center Interfaz.AssemblyInfo.cs
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\obj\Release\netcoreapp2.1\Shopping Center Interfaz.csproj.CoreCompileInputs.cache
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\obj\Release\netcoreapp2.1\Shopping Center Interfaz.RazorAssemblyInfo.cache
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\obj\Release\netcoreapp2.1\Shopping Center Interfaz.RazorAssemblyInfo.cs
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\obj\Release\netcoreapp2.1\Shopping Center Interfaz.RazorTargetAssemblyInfo.cache
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\obj\Release\netcoreapp2.1\WebServicesShoppingCenter.dll
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\obj\Release\netcoreapp2.1\WebServicesShoppingCenter.pdb
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\obj\Release\netcoreapp2.1\Shopping Center Interfaz.genruntimeconfig.cache
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\bin\Release\netcoreapp2.1\Publicacion\nlog.config
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\bin\Release\netcoreapp2.1\Publicacion\packages.config
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\bin\Release\netcoreapp2.1\Publicacion\web.config
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\bin\Release\netcoreapp2.1\Publicacion\appsettings.Development.json
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\bin\Release\netcoreapp2.1\Publicacion\appsettings.json
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\bin\Release\netcoreapp2.1\Publicacion\Connected Services\OData Service\ConnectedService.json
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\bin\Release\netcoreapp2.1\Publicacion\WebServicesShoppingCenter.deps.json
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\bin\Release\netcoreapp2.1\Publicacion\WebServicesShoppingCenter.runtimeconfig.json
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\bin\Release\netcoreapp2.1\Publicacion\Publicacion\nlog.config
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\bin\Release\netcoreapp2.1\Publicacion\Publicacion\packages.config
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\bin\Release\netcoreapp2.1\Publicacion\Publicacion\web.config
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\bin\Release\netcoreapp2.1\Publicacion\Publicacion\appsettings.Development.json
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\bin\Release\netcoreapp2.1\Publicacion\Publicacion\appsettings.json
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\bin\Release\netcoreapp2.1\Publicacion\Publicacion\Connected Services\OData Service\ConnectedService.json
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\bin\Release\netcoreapp2.1\Publicacion\Publicacion\WebServicesShoppingCenter.deps.json
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\bin\Release\netcoreapp2.1\Publicacion\Publicacion\WebServicesShoppingCenter.runtimeconfig.json
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\bin\Release\netcoreapp2.1\Publicacion\Publicacion\Publicacion\nlog.config
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\bin\Release\netcoreapp2.1\Publicacion\Publicacion\Publicacion\packages.config
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\bin\Release\netcoreapp2.1\Publicacion\Publicacion\Publicacion\web.config
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\bin\Release\netcoreapp2.1\Publicacion\Publicacion\Publicacion\appsettings.Development.json
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\bin\Release\netcoreapp2.1\Publicacion\Publicacion\Publicacion\appsettings.json
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\bin\Release\netcoreapp2.1\Publicacion\Publicacion\Publicacion\Connected Services\OData Service\ConnectedService.json
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\bin\Release\netcoreapp2.1\Publicacion\Publicacion\Publicacion\WebServicesShoppingCenter.deps.json
+D:\Users\ricardo.solares\Desktop\Base WS\WebServices_ShoppingCenter\WebApi2\bin\Release\netcoreapp2.1\Publicacion\Publicacion\Publicacion\WebServicesShoppingCenter.runtimeconfig.json
